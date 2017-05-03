@@ -1,78 +1,119 @@
-title: Lassen Sie uns ...
-subtitle:  ... auf einen Kaffee oder Tee treffen, und herausfinden, was Sie brauchen und wie ich Ihnen helfen kann.<br>
-            <a href="#footer" class="page-scroll">(Telefon / Email)</a><br>
-            Hier noch einige Impressionen aus dem Wedding von der lokalen Fotokünstlerin <a href="http://m-urb.de">Maarja Urb</a>.
+title: Portfolio
+subtitle: Hier finden Sie (m)eine Auswahl meiner Projekte und Initiativen.
 
 filters: [
-  Wedding,
+  Coaching,
+  Programmieren,
+  Spiele,
+  Smartphone,
+  Buch,
+  FreeCodeCamp,
+  Philosophie,
+  Kommunikation,
 ]
 all: Alle
 
-# Ideen für Elemente
-# Einladungskarte
-#
-
 elements:
-- image: img/wedding/gartenprojekt.jpg
-  captionTitle: Gartenprojekt in der Schulstraße
-  captionCategory: Wedding
+- image: img/portfolio/coaching.png
+  captionTitle: Computer-Coaching für Senioren
+  captionCategory: Im Wedding (Berlin :-)) 
+  link: http://michaelschmidt.berlin/
   filters:
-    - Wedding
-- image: img/wedding/hausbemalung.jpg
-  captionTitle: Hausbemalung in der Turiner Straße
-  captionCategory: Wedding
+    - Coaching
+- image: img/portfolio/spielplatz.png
+  captionTitle: Computer-Spielplatz (derzeit nicht online)
+  captionCategory: Golang, Bootstrap, Khan Live-Editor
+  link: video/spielplatz.mp4
   filters:
-    - Wedding
-- image: img/wedding/himmel.jpg
-  captionTitle: Irgendwo in Wedding
-  captionCategory: Wedding
+    - Philosophie
+    - Programmieren
+- image: img/portfolio/iris.png
+  captionTitle: Iris - Plats för Möte (Raum für Begegnung)
+  captionCategory: "Kommunikation: Ausbildung und Übung"
+  link: http://irisjohansson.com
   filters:
-    - Wedding
-- image: img/wedding/houses.jpg
-  captionTitle: Gaslampe
-  captionCategory: Wedding
+    - Philosophie
+    - Kommunikation
+- image: img/portfolio/2064.jpg
+  captionTitle: 2064 - Die Geschichte der Cypherpunks
+  captionCategory: Leseprobe (bitte weitergeben ...)
+  link: text/2064.pdf
   filters:
-    - Wedding
-- image: img/wedding/kirche.jpg
-  captionTitle: Am Leopoldplatz
-  captionCategory: Wedding
+    - Kommunikation
+    - Philosophie
+    - Buch
+- image: img/portfolio/fcc.png
+  captionTitle: FreeCodeCamp (Teilnahme)
+  captionCategory: "Start Coding Now ..."
+  link: https://www.freecodecamp.com
   filters:
-    - Wedding
-- image: img/wedding/kirchenacht.jpg
-  captionTitle: Leopoldplatz, achts
-  captionCategory: Wedding
+    - Kommunikation
+    - Programmieren
+    - FreeCodeCamp
+- image: img/portfolio/rogue.png
+  captionTitle: "Rogue Reaction: Eine Variante des Spiele-Klassikers"
+  captionCategory: FreeCodeCamp, React/Redux
+  link: http://codepen.io/lafisrap/full/LyNvow/
   filters:
-    - Wedding
-- image: img/wedding/leokiez.jpg
-  captionTitle: Im Leokiez
-  captionCategory: Wedding
+    - Programmieren
+    - Spiele
+    - FreeCodeCamp
+- image: img/portfolio/simongame.png
+  captionTitle: Das Simon-Spiel
+  captionCategory: FreeCodeCamp, HTML, CSS, Javascript
+  link: http://codepen.io/lafisrap/full/XpypRz/
   filters:
-    - Wedding
-- image: img/wedding/leoplatz.jpg
-  captionTitle: Leopoldplatz
-  captionCategory: Wedding
+    - Programmieren
+    - Spiele
+    - FreeCodeCamp
+- image: img/portfolio/tictactoe.png
+  captionTitle: Tic Tac Toe (auf einem schwedischen See)
+  captionCategory: FreeCodeCamp, HTML, CSS, Javascript
+  link: http://codepen.io/lafisrap/full/zNjZLP/
   filters:
-    - Wedding
-- image: img/wedding/rehberge.jpg
-  captionTitle: Rehberge Park
-  captionCategory: Wedding
+    - Programmieren
+    - Spiele
+    - FreeCodeCamp
+- image: img/portfolio/21worte.png
+  captionTitle: 21 Worte - Tetris und Scrabble in einem
+  captionCategory: Cocos2d-X, Javascript
+  link: http://c2064.in-berlin.de/c2064/21worte.mp4
   filters:
-    - Wedding
-- image: img/wedding/schillerpark1.jpg
-  captionTitle: Eingang zum Schillerpark
-  captionCategory: Wedding
+    - Programmieren
+    - Spiele
+    - Smartphone
+- image: img/portfolio/lifegame.png
+  captionTitle: The Game of Life
+  captionCategory: FreeCodeCamp, React/Redux
+  link: http://codepen.io/lafisrap/full/yMZyXw/
   filters:
-    - Wedding
-- image: img/wedding/schillerpark.jpg
-  captionTitle: Schillerpark
-  captionCategory: Wedding
+    - Programmieren
+    - FreeCodeCamp
+- image: img/portfolio/cryptoparty.png
+  captionTitle: CryptoParty Berlin
+  captionCategory: Verschlüsselung, Privatsphäre und viel Freude
+  link: https://www.cryptoparty.in/berlin
   filters:
-    - Wedding
-- image: img/wedding/schraders.jpg
-  captionTitle: Schraders im Leokiez
-  captionCategory: Wedding
+    - Kommunikation
+- image: img/portfolio/id.png
+  captionTitle: Initiative Demokratie
+  captionCategory: Ein Denkpapier
+  link: http://c2064.in-berlin.de/id
   filters:
-    - Wedding
+    - Philosophie
+- image: img/portfolio/abgrund.jpg
+  captionTitle: Der Abgrund der Freiheit und die erste Liebe
+  captionCategory: Goethes Faust im Leben
+  link: https://www.amazon.de/Abgrund-Freiheit-die-erste-Liebe/dp/3937078487
+  filters:
+    - Philosophie
+    - Buch
+- image: img/portfolio/knowledgecommunities.jpg
+  captionTitle: Knowledge Communities
+  captionCategory: Wisensaustausch im Internet
+  link: https://www.amazon.de/Knowledge-Communities-virtuellen-Wissensmärkten-Unternehmen/dp/3827316758
+  filters:
+    - Buch
 
     # Backgorund color and text color can be changed for each element, but also for all together further below with the global attributes
     # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity

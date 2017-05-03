@@ -1,29 +1,38 @@
-title: Mein Angebot
-subtitle: Ich kann Ihnen auf drei Arten im alltäglichen Umgang mit dem Computer weiterhelfen.
+title: Mein Lebenslauf
+subtitle: ...
 delay: 0.2
 processes:
-  - process: "Coaching „Basis“"
+  - process: "1967 - 1995"
     icon: "fa-clipboard"
     bullets:
-      - "Allgemeine Computerbedienung (bis Sie sich mit dem Computer wohl fühlen)"
-      - "Tipps und Tricks"
-      - "Unterstützung bei Alltagsproblemen"
-      - "Fernhilfe mit TeamViewer"
-      - "Wöchentliche Treffen"
-      - "Preis: Pauschal **€30 / Monat**, erstes Gespräch kostenlos"
-  - process: "Coaching „Webseite“"
+      - "Geb. am 28.5.1967 in Valdivia/Chile"
+      - "**1970** Umzug nach Deutschland"
+      - "**1984** Gewinn der Goldenen Diskette (BMBF, BILD, Chip)"
+      - "**1985**-**1987** Professionelle Videospielprogrammierung"
+      - "**1987** Abitur"
+      - "**1989**-**1991** Arbeit als Entwicklungsingenieur (PCM, Kontron)"
+      - "**1991**-**1995** Studium an der European Business School"
+  - process: "1996 - 2008"
     icon: "fa-pencil"
     bullets:
-      - "Eine Webseite einrichten, inkl. Text, Bilder, Audio, Video. Moderne, flexible Bootstrap-Webseite. Ähnlich wie diese hier."
-      - "Unterstützung beim Erweitern / Verändern"
-      - "Design-Beratung"
-      - "Kostenloses Hosting"
-      - "Preis: Pauschal **€30 / Monat** (inkl. eine .de-Domain)"
-  - process: "Installation / Problemlösung / Training"
+      - "**1996**-**1999** Projektleiter und Berater in Internet-Projekten (Allianz Leben, Raysono)"
+      - "**1999** Burnout"
+      - "**2000** Buch „Knowledge Communities“ (Addison Wessley)"
+      - "**2000**-**2002** Wissensmanagement-Beratung (2002 Beteiligung am Preis „Wissensmanager des Jahres, kleine Firmen“ für LHI"
+      - "**2003**-**2007** Aufbau eines Buch- und CD-Verlags „Archiati-Verlag“, heute „Rudolf Steiner Ausgaben“"
+      - "**2004** Buch „Der Abgrund der Freiheit und die erste Liebe“ (Goethes Faust)"
+  - process: "2008 -"
     icon: "fa-rocket"
     bullets:
-      - "Installation/Update von Betriebssystemen (Linux, Windows)"
-      - "Lösung von schwierigeren Problemen / Fehlersuche"
-      - "Einführung in neue Technologien (HTML, CSS, Verschlüsselung ...)"
-      - "Preis: **€35 / Stunde**"
-subline: "Rufen Sie einfach an: **0163-7951207** oder schreiben eine E-Mail an: **ccw@michaelschmidt.berlin**"
+      - "**2008**-**2010** Ausbildung zum Klassenlehrer an Waldorfschulen"
+      - "**2009**-**2012** Nebenberufliche Ausbildung in „Intuitive Pädagogik“"
+      - "**2011**-heute Computerunterricht an verschiedenen Waldorfschulen"
+      - "**2012**-**2015** Nebenberufliche Ausbildung in „Kommunkation als Kunst“"
+      - "**2015** Smartphone-Spiel „21 Worte“"
+      - "**2016** Buch „2064 - Die Geschichte der Cypherpunks“ (Internet-Veröffentlichung)"
+      - "**2017**- FreeCodeCamp, Online-Programmier-Uni (Teilnahme)"
+      - "**2017**- Computer Coaching für ältere Menschen"
+subline: ""
+
+
+columnHeaderSize: 40

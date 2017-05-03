@@ -4,9 +4,9 @@
 # @fontPrimary: Font of subtitle
 # @fontTitle: 	Font of title
 
-image: "img/abilities/michaelschmidt.berlin.png"
-title: "Computer<br>Coaching"
-subtitle: "für Senioren"
+image: "img/backgrounds/bg-header.jpg"
+title: "Lebenslauf / C.V."
+subtitle: "Michael Schmidt"
 ref: "about"
 
 

@@ -194,7 +194,7 @@
                     {{ range $i, $e := .elements }}
                     <div class="mix {{ range .filters }}{{ . | urlize }} {{ end }}" id="portfolio{{ $i }}" href="#" title="Client Name">
                         <div class="portfolio-wrapper">
-                            <a href="#gridModal{{ $i }}" data-toggle="modal">
+                            <a href="{{ .link }}" data-toggle="modal">
                                 <img src="{{ .image }}" alt="">
                                 <div class="caption">
                                     <div class="caption-text">

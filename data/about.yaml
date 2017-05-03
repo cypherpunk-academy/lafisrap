@@ -9,16 +9,19 @@ image: img/me.png
 imagePos: left
 imageSize: 250
 text: >
-    Würden Sie gerne nicht in Panik geraten, wenn Ihr Computer gerade nicht das macht, was Sie wollen?
+    Zwei Bereiche in meinem Leben kann ich ganz mit meinem Enthusiasmus füllen.
+    Zum einen alles, was sich um das Thema Programmieren und Webentwicklung dreht, dem „Lesen und Schreiben“ des 21. Jahrhunderts.
+    Zum anderen alles, was die innere Welt des Menschen verständlich macht: Angst, Wut, Traurigkeit, Enthusismus, Hemmnisse etc.
 
 
-    Ein paar Tricks und geniale Handgriffe lernen, um mit dem Computer kreativ zu werden?
+    Zu beidem habe ich Ausbildungen gemacht, zum "Dipl. Informatiker (FH)" an der European Business School und drei 3-Jahres-Ausbildungen.
+    Eine in "Kommunikation als Kunst" eine in "Intuitiver Pädagoik" und eine zum "Klassenlehrer an Waldorfschulen".
 
 
-    Möchten Sie auf einfache Weise Hilfe bekommen von einem erfahrenen Computer-Freak, damit Sie vor dem Computer ausatmen können und keine unnötige Angst haben?
+    Eine wichtigere Ausbildung als diese war mir mein Versuch in den letzten 17 Jahren nur noch das zu arbeiten, was ich arbeiten will --
+    in der heutigen Arbeitswelt ein gewagter Versuch.
 
-
-action: Mein Angebot
+action: Mein Lebenslauf
 ref: process
 
 # Additional Parameters
