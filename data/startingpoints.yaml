@@ -1,0 +1,102 @@
+title: Lassen Sie uns ...
+subtitle:  ... auf einen Kaffee oder Tee treffen, und herausfinden, was Sie brauchen und wie ich Ihnen helfen kann.<br>
+            <a href="#footer" class="page-scroll">(Telefon / Email)</a><br>
+            Hier noch einige Impressionen aus dem Wedding von der lokalen Fotokünstlerin <a href="http://m-urb.de">Maarja Urb</a>.
+
+filters: [
+  Wedding,
+]
+all: Alle
+
+# Ideen für Elemente
+# Einladungskarte
+#
+
+elements:
+- image: img/wedding/gartenprojekt.jpg
+  captionTitle: Gartenprojekt in der Schulstraße
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/hausbemalung.jpg
+  captionTitle: Hausbemalung in der Turiner Straße
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/himmel.jpg
+  captionTitle: Irgendwo in Wedding
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/houses.jpg
+  captionTitle: Gaslampe
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/kirche.jpg
+  captionTitle: Am Leopoldplatz
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/kirchenacht.jpg
+  captionTitle: Leopoldplatz, achts
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/leokiez.jpg
+  captionTitle: Im Leokiez
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/leoplatz.jpg
+  captionTitle: Leopoldplatz
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/rehberge.jpg
+  captionTitle: Rehberge Park
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/schillerpark1.jpg
+  captionTitle: Eingang zum Schillerpark
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/schillerpark.jpg
+  captionTitle: Schillerpark
+  captionCategory: Wedding
+  filters:
+    - Wedding
+- image: img/wedding/schraders.jpg
+  captionTitle: Schraders im Leokiez
+  captionCategory: Wedding
+  filters:
+    - Wedding
+
+    # Backgorund color and text color can be changed for each element, but also for all together further below with the global attributes
+    # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+    # panelColor:             white
+
+
+
+backgroundColor:        "#eee"
+# titleSize:              50
+# titleColor:             "#333"
+# lineColor:              "#BA4C3D"
+# textSize:               18
+# textColor:              "#333"
+# filterSize:             12
+# filterColor:            "#1B0728"
+# filterActiveColor:      "#BA4C3D"
+# filterActiveTextColor:  white
+
+# captionSize:            16
+# captionColor:           white
+# captionBackgroundColor: "#BA4C3D"
+# panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+# panelColor:             white
+# panelTitleSize:         60
+# panelTitleColor:        blue
+# panelTextSize:          20
+# panelTextColor:         blue

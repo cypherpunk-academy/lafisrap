@@ -1,0 +1,138 @@
+  #####################################################################
+# Definition of an Ability
+#
+#################################################################
+# Entry Page
+#
+# abilityName:      The name of the ability, used as title
+# description:      Description of the ability for the front page
+# linkText:         Text of the button
+# backgroundImage:  Background image (you bet ;-)
+# screenImage:      Image on screen
+# frame:            Frame around screen image 
+
+abilityName: Benenne dein Tätigkeitsfeld
+description: >
+    Beschreibe das Tätigkeitsfeld, in welchem Du deine Fähigkeiten einsetzt. 
+    Welchen Sinn siehst Du in deinem Tätigkeitsfeld?
+
+linkText: Mehr
+colorMode: dark
+# backgroundImage: img/...
+backgroundColor: "#13105C"
+screenImage: img/abilities/pencils.jpg
+placeOfWriting: Dahab
+date: 13. Febr. 2017
+
+# titleSize:        40
+titleColor:       "white"
+# textSize:         24
+textColor:        "white"
+# lineColor:        "#700D00"
+# buttonSize:       14
+
+
+###################################################################
+# Modal Page
+#
+# All Topics
+#
+# !Important: Make sure that you have always the right amount of
+#             spaces (not tabs!!) in the beginning of each line,
+#             Yaml is very picky.
+#
+# topicsUp:     List with topics that are shown above the screen
+# topicsDown:   List with topics that are shown below the screen
+# oneword:      The word that appears above the screen
+# description:  The text that appears when you hover over the word
+# text:         Text (with images, MarkDown syntax) on the screen
+# image:        An image on the screen
+# video:        A video on the screen
+# closeButton:  Text on close button
+#
+# !Note: You must choose one of the three: text, image, video
+# !Note: To get a new paragraph in a text you need two (!) empty lines
+
+stone: saphire
+topicsUp:
+  - oneword: Gib deiner Erfahrung eine Überschrift.
+    description: > 
+      Charakterisiere hier skizzenhaft das Umfeld und den Kontext, in welchem Du diese Erfahrung gemacht hast.
+    text: >
+      <h3>Erlebnisse</h3>
+      ![left](img/backgrounds/bg-ability2.jpg "This text appears when hovering over the image")
+
+
+
+      Portraitiere hier eine deiner Erfahrungen, die Du in deinem Tätigkeitsfeld gemacht hast. 
+      Schreibe aus deiner eigenen Perspektive so, dass andere deine Erfahrung nachvollziehen können.
+      Richte deine Aufmerksamkeit auf das, was in Dir geschehen ist und lege den Schwerpunkt des Portraits
+      auf das, was andere von Außen nicht sehen können, weil es sonst in Dir verborgen bleibt.
+      ![right](img/backgrounds/bg-ability1.jpg "This text appears when hovering over the image")
+
+
+
+      Du kannst für dein Portrait verschiedene Medien verwenden, die Dir für deinen Zweck passend erscheinen.
+      Schreibe z. Bsp. einen Text, mache Fotos, Videos oder Bilder. Oder Du baust Musik in dein Portrait ein, 
+      welche deine Erfahrung nachvollziehbar macht.
+
+  - oneword: Viele
+    description: Wenn man tut, was man gerne tut und gut kann, ... 
+    image: img/abilities/programming1.png
+  - oneword: weitere
+    description: dann trifft man auf wiederkehrende innere Erlebnisse.
+    video: video/image_to_playground.mp4
+  - oneword: Erlebnisse
+    description: Sie stehen für den Weg, den man geht.
+    video: video/image_to_playground.mp4
+
+topicsDown:
+  - oneword: Auch in der
+    description: ...
+    text: >
+      <h3>Ein schöner Titel</h3>
+
+
+      DOWN **Lorem ipsum dolor sit amet**, consectetur adipisicing elit.
+      Quos modi in tenetur vero voluptatum sapiente dolores eligendi nemo iste ea.
+      Omnis, odio enim sint quam dolorum dolorem. Nostrum, minus, ad.
+
+
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Quos modi in tenetur vero voluptatum sapiente dolores eligendi nemo iste ea.
+      Omnis, odio enim sint quam dolorum dolorem. Nostrum, minus, ad.
+
+  - oneword: unteren Leiste.
+    description: ...
+    text: >
+      DOWN **Lorem ipsum dolor sit amet**, consectetur adipisicing elit.
+      Quos modi in tenetur vero voluptatum sapiente dolores eligendi nemo iste ea.
+      Omnis, odio enim sint quam dolorum dolorem. Nostrum, minus, ad.
+
+
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+      Quos modi in tenetur vero voluptatum sapiente dolores eligendi nemo iste ea.
+      Omnis, odio enim sint quam dolorum dolorem. Nostrum, minus, ad.
+
+
+closeButton: Schließen
+
+
+
+# modalTitleSize:         40
+# modalTitleColor:        red
+# modalLineColor:         red
+# modalTopicSize:         34
+modalTopicWidth:        340
+# modalTopicColor:        grey
+# modalDescriptionSize:   16
+# modalDescriptionColor:  white
+# modalButtonSize:        60
+# modalButtonColor:       grey
+# modalWeatherSize:       14
+# modalWeatherColor:      white
+# modalTextSize:          24      # Use <h3> tag in the md text for headlines
+# modalTextColor:         green
+# modalImagePadding:      20
+# modalImageSize:         300
+# modalImageOpacity:      100, 100, 100, 0.05   # First three values red, green, blue, last opacity

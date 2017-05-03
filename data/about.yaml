@@ -1,0 +1,33 @@
+# Change LESS Globals in file static/less/vitality.less for following items
+# @themeDark: 	Color of title and subtitle
+# @themePrimary: 	Color of double line and navigation button
+# @fontPrimary: Font of subtitle
+# @fontTitle: 	Font of title
+
+backgroundImage: img/wedding/schillerpark.jpg
+image: img/me.png
+imagePos: left
+imageSize: 250
+text: >
+    Würden Sie gerne nicht in Panik geraten, wenn Ihr Computer gerade nicht das macht, was Sie wollen?
+
+
+    Ein paar Tricks und geniale Handgriffe lernen, um mit dem Computer kreativ zu werden?
+
+
+    Möchten Sie auf einfache Weise Hilfe bekommen von einem erfahrenen Computer-Freak, damit Sie vor dem Computer ausatmen können und keine unnötige Angst haben?
+
+
+action: Mein Angebot
+ref: process
+
+# Additional Parameters
+
+# textSize:     		36
+# textPadding:			60
+# textColor: 				"yellow"
+# textColorPrimary: "#700D00"
+# buttonSize:    		18
+# buttonColor: 			"white"
+# lineColor: 				"#700D00"
+# opacity: 					0.6

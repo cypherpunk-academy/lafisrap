@@ -1,0 +1,37 @@
+image: "img/wedding/houses.jpg"
+opacity: "0.5"
+details: # 2, 3 or 4 entries
+  - icon:   "fa-phone"
+    title:  "Telefon / Whatsapp"
+    text:   "0163-7951207"
+  - icon:   "fa-map-marker"
+    title:  "Adresse"
+    text:   "Turiner Straße 21, 13347 Berlin"
+  - icon:   "fa-envelope"
+    title:  "E-Mail"
+    text:   "ccb@michaelschmidt.berlin<br><div style='font-size: 12px; line-height: 14px !important;'>PGP:<br>BA00 4AD6 DB24 FA89 A045<br>B3FF 37DA B9A1 06C1 767D</div>"
+  - icon:   "fa-wechat"
+    title:  "Jabber"
+    text:   "lafisrap@trashserver.net<br><div style='font-size: 12px; line-height: 14px !important;'>OMEMO:<br>4a9e5c8d cb0b9141 661e5b35 476b1c50<br>c28462c6 a77b5212 8aeff39f 3081805d</div>"
+social:
+  - icon:   "fa-twitter"
+    link:   "https://twitter.com/lafisrap"
+  - icon:   "fa-github"
+    link:   "https://github.com/lafisrap"
+  - icon:   "fa-instagram"
+    link:   "https://www.instagram.com/lavisrap"
+  - icon:   "fa-facebook"
+    link:   "https://www.facebook.com/lavisrap"
+impressumTitle: Impressum
+impressumText: >
+    <h4>------------- Anbieter -------------</h4>
+    Michael Schmidt<br>
+    Turiner Straße 21<br>
+    13347 Berlin<br>
+    <h4>------------- Kontakt: -------------</h4>
+    Telefon: +49 163 7951207<br>
+    E-Mail: ccb@michaelschmidt.berlin<br>
+    Jabber: lafisrap@trashserver.net<br>
+    Website: michaelschmidt.berlin<br>
+    <h4 style="margin-bottom: 60px;"></h4>
+copyright: 2017 Michael Schmidt

@@ -1,0 +1,20 @@
+# Change LESS Globals in file static/less/vitality.less for following items
+# @themeDark: 	Color of title and subtitle
+# @themePrimary: 	Color of double line and navigation button
+# @fontPrimary: Font of subtitle
+# @fontTitle: 	Font of title
+
+image: "img/abilities/michaelschmidt.berlin.png"
+title: "Computer<br>Coaching"
+subtitle: "für Senioren"
+ref: "about"
+
+
+# Additional Parameters
+
+# titleSize: 			"80px"
+subtitleSize: 	"50px"
+#titleColor: 		"white"
+#subtitleColor: 	"white"
+#lineColor: 			"white"
+#buttonColor: 		"white"
