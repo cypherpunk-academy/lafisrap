@@ -194,7 +194,7 @@
                     {{ range $i, $e := .elements }}
                     <div class="mix {{ range .filters }}{{ . | urlize }} {{ end }}" id="portfolio{{ $i }}" href="#" title="Client Name">
                         <div class="portfolio-wrapper">
-                            <a href="{{ .link }}" data-toggle="modal">
+                            <a href="#gridModal{{ $i }}" data-toggle="modal">
                                 <img src="{{ .image }}" alt="">
                                 <div class="caption">
                                     <div class="caption-text">
@@ -216,7 +216,18 @@
 
 {{ range $i, $e := .elements }}
 <div class="portfolio-modal modal fade" id="gridModal{{ $i }}" tabindex="-1" role="dialog" aria-hidden="true" style="background-image: url('{{ .image }}')">
-    <div class="modal-content" data-dismiss="modal">
+    <div class="modal-content">
+        {{ if .content }}
+        <div id="grid-panel">
+            <h2>{{ .captionTitle }}</h2>
+            <p>{{ .content | markdownify }}</p>
+            {{ if .video }}
+            <video controls>
+                <source src="{{ .video }}" type="video/mp4">
+            </video>
+            {{ end }}
+        </div>
+        {{ end }}
     </div>
     <div class="close-modal" data-dismiss="modal">
         <div class="lr">

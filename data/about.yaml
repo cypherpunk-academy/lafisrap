@@ -9,20 +9,40 @@ image: img/me.png
 imagePos: left
 imageSize: 250
 text: >
-    In zwei Bereichen in meinem Leben fühle ich mich ganz zu Hause.
-    Zum einen ist das alles, was sich um das Thema Programmieren und Webentwicklung dreht, dem „Lesen und Schreiben“ des 21. Jahrhunderts.
-    Zum anderen alles, was die innere Welt des Menschen verständlich machen kann: Angst, Wut, Traurigkeit, Enthusismus, Hemmnisse etc.
+    **Widerspüche** machen das Leben lebendig.
+    Zeit und Qualität, Ernst und Spaß, Abgabetermin und Liebe zum Detail.
+    Meine liebste Polarität ist **Programmieren** und **offen, angstfrei Kommunizieren**.
+    Beides mache ich für mein Leben gerne.
 
 
-    Zu beidem habe ich Ausbildungen gemacht, zum "Dipl. Informatiker (FH)" an der European Business School und drei 3-Jahres-Ausbildungen.
-    Eine in "Kommunikation als Kunst", eine in "Intuitiver Pädagoik" und eine zum "Klassenlehrer an Waldorfschulen".
+    <span data-toggle="collapse" data-target="#hidden-about" onclick="$(this).fadeOut()">Mehr ...</span>
+    <div class="collapse" id="hidden-about">
 
 
-    Eine wichtigere Ausbildung als diese war mir mein Versuch in den letzten 17 Jahren nur noch das zu arbeiten, was ich arbeiten will --
-    in der heutigen Arbeitswelt ein gewagter Versuch.
+    Mit 17 Jahren habe ich professionell Videospiele programmiert, mit 28 sichere Online-Banking-Anwendungen.
+    Später ein Web-Archiv und einen Computerspielplatz.
+    In meinem [**Portfolio**](#startingpoints) finden Sie eine Auswahl meiner liebsten Projekte.
+    Derzeit aktuell sind bei mir **HTML**, **CSS**, **Javascript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **d3**, **Bootstrap**, **Hugo**.
 
-action: Mein Lebenslauf
+
+    Offen und angstfrei zu kommunizieren habe ich in meiner Ausbildung zum **Klassenlehrer an Waldorfschulen** gelernt.
+    Zu dieser Ausbildung gekommen bin ich, nachdem ich über fünf Jahre als **Cofounder einen kleinen Verlag** aufgebaut und als etwa vierzigstes Buch eines über Waldorf-Pädagogik herausgegeben habe.
+    Das gab den Impuls, meine bisherigen Erfahrungen an Schüler weiterzugeben (unsere Zukunft).
+
+
+    Was ich tun kann, dass auch andere in meiner Umgebung offen und angstfrei kommunizieren können, habe ich dann u.a. in einer dreijährigen Ausbildung in Schweden und Ägypten mit dem Namen **"Kommunikation als Kunst"** gelernt.
+    Man kann sagen es ist eine Mischung aus Gewaltfreier Kommunikation, Gestalt-Therapie, Transaktionsanalyse und anderer Ansätze.
+    Über die letzten Jahre hatte ich zusammen mit meiner Lebensgefährtin eine junge autistische Frau bei uns aufgenommen, die unbedingt auf eine geborgene angstfreie Umgebung angewiesen war.
+
+
+    **Was ich suche,** ist ein Team, in dem ich zugleich mein Programmiertalent entfalten und an der Kommunikations-Atmosphäre arbeiten kann.
+    Idealerweise in einer **JavaScript / Bootstrap / React-Umgebung**.
+    Ich bin aber auch bereit neues zu lernen (ich habe in meinem Leben auch schon C, C++, PHP, Java und Go programmiert).
+    </div>
+action: Lebenslauf
 ref: process
+action2: Portfolio
+ref2: startingpoints
 
 # Additional Parameters
 

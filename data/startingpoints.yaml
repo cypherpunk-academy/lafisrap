@@ -2,24 +2,47 @@ title: Portfolio
 subtitle: Hier finden Sie (m)eine Auswahl meiner Projekte und Initiativen.
 
 filters: [
-  Coaching,
-  Programmieren,
-  Spiele,
-  Smartphone,
-  Buch,
-  FreeCodeCamp,
+  HTML,
+  CSS,
+  Javascript,
+  Bootstrap,
+  React/Redux,
+  Hugo,
+  Go,
+  Backbone,
+  Processing.js,
+  Cocos2d-X,
+  D3,
+  mySQL,
+  MongoDB,
+  Casper.js,
+  Bücher,
   Philosophie,
   Kommunikation,
+
 ]
 all: Alle
+
+# ADD:
+# steinerdatenbank.de
+# malin's seite
 
 elements:
 - image: img/portfolio/coaching.png
   captionTitle: Computer-Coaching für Senioren
   captionCategory: Im Wedding (Berlin :-)) 
-  link: http://michaelschmidt.berlin/
   filters:
-    - Coaching
+    - HTML
+    - CSS
+    - Bootstrap
+    - Hugo
+  content: >
+    Jahr: **2017**  
+
+    Technologien: **HTML, CSS, Bootstrap, Hugo**  
+
+    Link: [http://michaelschmidt.berlin](http://michaelschmidt.berlin)
+
 - image: img/portfolio/spielplatz.png
   captionTitle: Computer-Spielplatz (derzeit nicht online)
   captionCategory: Golang, Bootstrap, Khan Live-Editor
@@ -27,6 +50,15 @@ elements:
   filters:
     - Philosophie
     - Programmieren
+  content: >
+    Jahr: **2017**  
+
+    Technologien: **HTML, CSS, Bootstrap, Hugo**  
+
+    Besonderheiten: keine
+
+    Link: [http://michaelschmidt.berlin](http://google.de)
+
 - image: img/portfolio/iris.png
   captionTitle: Iris - Plats för Möte (Raum für Begegnung)
   captionCategory: "Kommunikation: Ausbildung und Übung"
@@ -34,6 +66,15 @@ elements:
   filters:
     - Philosophie
     - Kommunikation
+  content: >
+    Jahr: **2017**  
+
+    Technologien: **HTML, CSS, Bootstrap, Hugo**  
+
+    Besonderheiten: keine
+
+    Link: http://michaelschmidt.berlin/
+
 - image: img/portfolio/2064.jpg
   captionTitle: 2064 - Die Geschichte der Cypherpunks
   captionCategory: Leseprobe (bitte weitergeben ...)
