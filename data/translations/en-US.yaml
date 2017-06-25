@@ -1,0 +1,358 @@
+###########################################################################################################################
+hero:
+  image: "img/backgrounds/bg-header.jpg"
+  ref: "about"
+  title: "Michael Schmidt"
+  subtitle: "Curriculum Vitae"
+
+  #titleSize:       "80px"
+  subtitleSize:   "50px"
+  #titleColor:     "white"
+  #subtitleColor:   "white"
+  #lineColor:       "white"
+  #buttonColor:     "white"
+
+###########################################################################################################################
+about:
+  backgroundImage: img/wedding/schillerpark1.jpg
+  image: img/me.png
+  imagePos: left
+  imageSize: 250
+  text: >
+      **Contradictions** are an essence of life.
+      Zeit und Qualität, Ernst und Spaß, Abgabetermin und Liebe zum Detail.
+      Meine liebste Polarität ist **Programmieren** und **offen, angstfrei Kommunizieren**.
+      Beides mache ich für mein Leben gerne.
+
+
+      <span data-toggle="collapse" data-target="#hidden-about" onclick="$(this).fadeOut()">Mehr ...</span>
+      <div class="collapse" id="hidden-about">
+
+
+      Mit 17 Jahren habe ich professionell Videospiele programmiert, mit 28 sichere Online-Banking-Anwendungen.
+      Später ein Web-Archiv und einen Computerspielplatz.
+      In meinem [**Portfolio**](#startingpoints) finden Sie eine Auswahl meiner liebsten Projekte.
+      Derzeit aktuell sind bei mir **HTML**, **CSS**, **Javascript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **d3**, **Bootstrap**, **Hugo**.
+
+
+      Offen und angstfrei zu kommunizieren habe ich in meiner Ausbildung zum **Klassenlehrer an Waldorfschulen** gelernt.
+      Zu dieser Ausbildung gekommen bin ich, nachdem ich über fünf Jahre als **Cofounder einen kleinen Verlag** aufgebaut und als etwa vierzigstes Buch eines über Waldorf-Pädagogik herausgegeben habe.
+      Das gab den Impuls, meine bisherigen Erfahrungen an Schüler weiterzugeben (unsere Zukunft).
+
+
+      Was ich tun kann, dass auch andere in meiner Umgebung offen und angstfrei kommunizieren können, habe ich dann u.a. in einer dreijährigen Ausbildung in Schweden und Ägypten mit dem Namen **"Kommunikation als Kunst"** gelernt.
+      Man kann sagen es ist eine Mischung aus Gewaltfreier Kommunikation, Gestalt-Therapie, Transaktionsanalyse und anderer Ansätze.
+      Über die letzten Jahre hatte ich zusammen mit meiner Lebensgefährtin eine junge autistische Frau bei uns aufgenommen, die unbedingt auf eine geborgene angstfreie Umgebung angewiesen war.
+
+
+      **Was ich suche,** ist ein Team, in dem ich zugleich mein Programmiertalent entfalten und an der Kommunikations-Atmosphäre arbeiten kann.
+      Idealerweise in einer **JavaScript / Bootstrap / React-Umgebung**.
+      Ich bin aber auch bereit neues zu lernen (ich habe in meinem Leben auch schon C, C++, PHP, Java und Go programmiert).
+      </div>
+  action: Lebenslauf
+  ref: process
+  action2: Portfolio
+  ref2: startingpoints
+
+  # Additional Parameters
+
+  # textSize:         36
+  # textPadding:      60
+  # textColor:         "yellow"
+  # textColorPrimary: "#700D00"
+  # buttonSize:        18
+  # buttonColor:       "white"
+  # lineColor:         "#700D00"
+  # opacity:           0.6
+
+
+###########################################################################################################################
+nav:
+  menu:
+    - title:  "Über mich"
+      href:   "about"
+    - title:  "Lebenslauf"
+      href:   "process"
+    - title:  "Portfolio"
+      href:   "startingpoints"
+    - title:  "Kontakt"
+      href:   "footer"
+
+  # logoText: "My logo"
+  logoImage:   "img/logo.png"
+
+  # Additional Parameters
+
+  # menuSize:         "20px"
+  # logoTextSize:     "100px"
+  logoHeight:         "50px"
+  logoHeightExpanded: "80px"
+  # colorLight:       "#ff0000"
+  # colorDark:         "#330000"
+
+###########################################################################################################################
+cv:
+  title: Mein Lebenslauf
+  subtitle: Stand 3.5.2017
+  delay: 0.2
+  processes:
+    - process: "1967 - 1995"
+      icon: "fa-clipboard"
+      bullets:
+        - "Geb. am 28.5.1967 in Valdivia/Chile"
+        - "**1970** Umzug nach Deutschland"
+        - "**1984** Gewinn der Goldenen Diskette (BMBF, BILD, Chip)"
+        - "**1985**-**1987** Professionelle Videospielprogrammierung"
+        - "**1987** Abitur"
+        - "**1989**-**1991** Arbeit als Entwicklungsingenieur (PCM, Kontron)"
+        - "**1991**-**1995** Studium an der European Business School"
+    - process: "1996 - 2008"
+      icon: "fa-pencil"
+      bullets:
+        - "**1996**-**1999** Projektleiter und Berater in Internet-Projekten (Allianz Leben, Raysono)"
+        - "**1999** Burnout"
+        - "**2000** Buch „Knowledge Communities“ (Addison Wessley)"
+        - "**2000**-**2002** Wissensmanagement-Beratung (2002 Beteiligung am Preis „Wissensmanager des Jahres, kleine Firmen“ für LHI"
+        - "**2003**-**2007** Aufbau eines Buch- und CD-Verlags „Archiati-Verlag“, heute „Rudolf Steiner Ausgaben“"
+        - "**2004** Buch „Der Abgrund der Freiheit und die erste Liebe“ (Goethes Faust)"
+    - process: "2008 -"
+      icon: "fa-rocket"
+      bullets:
+        - "**2008**-**2010** Ausbildung zum Klassenlehrer an Waldorfschulen"
+        - "**2009**-**2012** Nebenberufliche Ausbildung in „Intuitive Pädagogik“"
+        - "**2011**-heute Computerunterricht an verschiedenen Waldorfschulen"
+        - "**2012**-**2015** Nebenberufliche Ausbildung in „Kommunkation als Kunst“"
+        - "**2015** Smartphone-Spiel „21 Worte“"
+        - "**2016** Buch „2064 - Die Geschichte der Cypherpunks“ (Internet-Veröffentlichung)"
+        - "**2017**- FreeCodeCamp, Online-Programmier-Uni (Teilnahme)"
+        - "**2017**- Computer Coaching für ältere Menschen"
+  subline: ""
+
+  columnHeaderSize: 40
+
+###########################################################################################################################
+startingpoints:
+  title: Portfolio
+  subtitle: Hier finden Sie (m)eine Auswahl meiner Projekte und Initiativen.
+
+  filters: [
+    HTML,
+    CSS,
+    Javascript,
+    Bootstrap,
+    React/Redux,
+    Hugo,
+    Go,
+    Backbone,
+    Processing.js,
+    Cocos2d-X,
+    D3,
+    mySQL,
+    MongoDB,
+    Casper.js,
+    Bücher,
+    Philosophie,
+    Kommunikation,
+
+  ]
+  all: Alle
+
+  # ADD:
+  # steinerdatenbank.de
+  # malin's seite
+
+  elements:
+  - image: img/portfolio/coaching.png
+    captionTitle: Computer-Coaching für Senioren
+    captionCategory: Im Wedding (Berlin :-)) 
+    filters:
+      - HTML
+      - CSS
+      - Bootstrap
+      - Hugo
+    content: >
+      Jahr: **2017**  
+
+      Technologien: **HTML, CSS, Bootstrap, Hugo**  
+
+      Link: [http://michaelschmidt.berlin](http://michaelschmidt.berlin)
+
+  - image: img/portfolio/spielplatz.png
+    captionTitle: Computer-Spielplatz (derzeit nicht online)
+    captionCategory: Golang, Bootstrap, Khan Live-Editor
+    link: video/spielplatz.mp4
+    filters:
+      - Philosophie
+      - Programmieren
+    content: >
+      Jahr: **2017**  
+
+      Technologien: **HTML, CSS, Bootstrap, Hugo**  
+
+      Besonderheiten: keine
+
+      Link: [http://michaelschmidt.berlin](http://google.de)
+
+  - image: img/portfolio/iris.png
+    captionTitle: Iris - Plats för Möte (Raum für Begegnung)
+    captionCategory: "Kommunikation: Ausbildung und Übung"
+    link: http://irisjohansson.com
+    filters:
+      - Philosophie
+      - Kommunikation
+    content: >
+      Jahr: **2017**  
+
+      Technologien: **HTML, CSS, Bootstrap, Hugo**  
+
+      Besonderheiten: keine
+
+      Link: http://michaelschmidt.berlin/
+
+  - image: img/portfolio/2064.jpg
+    captionTitle: 2064 - Die Geschichte der Cypherpunks
+    captionCategory: Leseprobe (bitte weitergeben ...)
+    link: text/2064.pdf
+    filters:
+      - Kommunikation
+      - Philosophie
+      - Buch
+  - image: img/portfolio/fcc.png
+    captionTitle: FreeCodeCamp (Teilnahme)
+    captionCategory: "Start Coding Now ..."
+    link: https://www.freecodecamp.com
+    filters:
+      - Kommunikation
+      - Programmieren
+      - FreeCodeCamp
+  - image: img/portfolio/rogue.png
+    captionTitle: "Rogue Reaction: Eine Variante des Spiele-Klassikers"
+    captionCategory: FreeCodeCamp, React/Redux
+    link: http://codepen.io/lafisrap/full/LyNvow/
+    filters:
+      - Programmieren
+      - Spiele
+      - FreeCodeCamp
+  - image: img/portfolio/simongame.png
+    captionTitle: Das Simon-Spiel
+    captionCategory: FreeCodeCamp, HTML, CSS, Javascript
+    link: http://codepen.io/lafisrap/full/XpypRz/
+    filters:
+      - Programmieren
+      - Spiele
+      - FreeCodeCamp
+  - image: img/portfolio/tictactoe.png
+    captionTitle: Tic Tac Toe (auf einem schwedischen See)
+    captionCategory: FreeCodeCamp, HTML, CSS, Javascript
+    link: http://codepen.io/lafisrap/full/zNjZLP/
+    filters:
+      - Programmieren
+      - Spiele
+      - FreeCodeCamp
+  - image: img/portfolio/21worte.png
+    captionTitle: 21 Worte - Tetris und Scrabble in einem
+    captionCategory: Cocos2d-X, Javascript
+    link: http://c2064.in-berlin.de/c2064/21worte.mp4
+    filters:
+      - Programmieren
+      - Spiele
+      - Smartphone
+  - image: img/portfolio/lifegame.png
+    captionTitle: The Game of Life
+    captionCategory: FreeCodeCamp, React/Redux
+    link: http://codepen.io/lafisrap/full/yMZyXw/
+    filters:
+      - Programmieren
+      - FreeCodeCamp
+  - image: img/portfolio/cryptoparty.png
+    captionTitle: CryptoParty Berlin
+    captionCategory: Verschlüsselung, Privatsphäre und viel Freude
+    link: https://www.cryptoparty.in/berlin
+    filters:
+      - Kommunikation
+  - image: img/portfolio/id.png
+    captionTitle: Initiative Demokratie
+    captionCategory: Ein Denkpapier
+    link: http://c2064.in-berlin.de/id
+    filters:
+      - Philosophie
+  - image: img/portfolio/abgrund.jpg
+    captionTitle: Der Abgrund der Freiheit und die erste Liebe
+    captionCategory: Goethes Faust im Leben
+    link: https://www.amazon.de/Abgrund-Freiheit-die-erste-Liebe/dp/3937078487
+    filters:
+      - Philosophie
+      - Buch
+  - image: img/portfolio/knowledgecommunities.jpg
+    captionTitle: Knowledge Communities
+    captionCategory: Wisensaustausch im Internet
+    link: https://www.amazon.de/Knowledge-Communities-virtuellen-Wissensmärkten-Unternehmen/dp/3827316758
+    filters:
+      - Buch
+
+      # Backgorund color and text color can be changed for each element, but also for all together further below with the global attributes
+      # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+      # panelColor:             white
+
+
+
+  backgroundColor:        "#eee"
+  # titleSize:              50
+  # titleColor:             "#333"
+  # lineColor:              "#BA4C3D"
+  # textSize:               18
+  # textColor:              "#333"
+  # filterSize:             12
+  # filterColor:            "#1B0728"
+  # filterActiveColor:      "#BA4C3D"
+  # filterActiveTextColor:  white
+
+  # captionSize:            16
+  # captionColor:           white
+  # captionBackgroundColor: "#BA4C3D"
+  # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+  # panelColor:             white
+  # panelTitleSize:         60
+  # panelTitleColor:        blue
+  # panelTextSize:          20
+  # panelTextColor:         blue
+
+###########################################################################################################################
+footer:
+  image: "img/wedding/schraders.jpg"
+  opacity: "0.5"
+  details: # 2, 3 or 4 entries
+    - icon:   "fa-phone"
+      title:  "Telefon / Whatsapp"
+      text:   "0163-7951207"
+    - icon:   "fa-map-marker"
+      title:  "Adresse"
+      text:   "Turiner Straße 21, 13347 Berlin"
+    - icon:   "fa-envelope"
+      title:  "E-Mail"
+      text:   "ccb@michaelschmidt.berlin<br><div style='font-size: 12px; line-height: 14px !important;'>PGP:<br>BA00 4AD6 DB24 FA89 A045<br>B3FF 37DA B9A1 06C1 767D</div>"
+    - icon:   "fa-wechat"
+      title:  "Jabber"
+      text:   "lafisrap@trashserver.net<br><div style='font-size: 12px; line-height: 14px !important;'>OMEMO:<br>4a9e5c8d cb0b9141 661e5b35 476b1c50<br>c28462c6 a77b5212 8aeff39f 3081805d</div>"
+  social:
+    - icon:   "fa-twitter"
+      link:   "https://twitter.com/lafisrap"
+    - icon:   "fa-github"
+      link:   "https://github.com/lafisrap"
+    - icon:   "fa-instagram"
+      link:   "https://www.instagram.com/lavisrap"
+    - icon:   "fa-facebook"
+      link:   "https://www.facebook.com/lavisrap"
+  impressumTitle: Impressum
+  impressumText: >
+      <h4>------------- Anbieter -------------</h4>
+      Michael Schmidt<br>
+      Turiner Straße 21<br>
+      13347 Berlin<br>
+      <h4>------------- Kontakt: -------------</h4>
+      Telefon: +49 163 7951207<br>
+      E-Mail: ccb@michaelschmidt.berlin<br>
+      Jabber: lafisrap@trashserver.net<br>
+      Website: michaelschmidt.berlin<br>
+      <h4 style="margin-bottom: 60px;"></h4>
+  copyright: 2017 Michael Schmidt

@@ -1,0 +1,865 @@
+###########################################################################################################################
+nav:
+  menu:
+    - title:  "Über mich"
+      href:   "about"
+    - title:  "Skillset"
+      href:   "skillset"
+    - title:  "Portfolio"
+      href:   "portfolio"
+    - title:  "Lebenslauf"
+      href:   "process"
+    - title:  "Kontakt"
+      href:   "footer"
+
+  # logoText: "My logo"
+  logoImage:   "img/logo.png"
+
+  # Additional Parameters
+
+  # menuSize:         "20px"
+  # logoTextSize:     "100px"
+  logoHeight:         "50px"
+  logoHeightExpanded: "80px"
+  # colorLight:       "#ff0000"
+  # colorDark:         "#330000"
+
+###########################################################################################################################
+hero:
+  image: "img/backgrounds/bg-header.jpg"
+  ref: "about"
+  title: "Michael Schmidt"
+  subtitle: "Lebenslauf / C.V."
+
+  # titleSize:       "80px"
+  subtitleSize:   "50px"
+  #titleColor:     "white"
+  #subtitleColor:   "white"
+  #lineColor:       "white"
+  #buttonColor:     "white"
+
+###########################################################################################################################
+about:
+  backgroundImage: img/wedding/schillerpark1.jpg
+  image: img/me.png
+  imagePos: left
+  imageSize: 250
+  text: >
+      **Widerspüche** machen das Leben lebendig.
+      Zum Beispiel Zeit und Qualität, Ernst und Spaß, Abgabetermin und Liebe zum Detail.
+      Meine liebste Polarität ist **Programmieren** und **offen, angstfrei Kommunizieren**.
+      Beides mache ich für mein Leben gerne.
+
+
+      <span data-toggle="collapse" data-target="#hidden-about" onclick="$(this).fadeOut()">Mehr ...</span>
+      <div class="collapse" id="hidden-about">
+
+
+      Mit 17 Jahren habe ich professionell Videospiele programmiert, mit 28 sichere Online-Banking-Anwendungen.
+      Später ein Web-Archiv und einen Computerspielplatz.
+      In meinem [**Portfolio**](#startingpoints) finden Sie eine Auswahl meiner liebsten Projekte.
+      Derzeit aktuell sind bei mir **HTML**, **CSS**, **JavaScript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **d3**, **Bootstrap**, **Hugo**.
+
+
+      Offen und angstfrei zu kommunizieren habe ich in meiner Ausbildung zum **Klassenlehrer an Waldorfschulen** gelernt.
+      Zu dieser Ausbildung gekommen bin ich, nachdem ich über fünf Jahre als **Cofounder einen kleinen Verlag** aufgebaut und als etwa vierzigstes Buch eines über Waldorf-Pädagogik herausgegeben habe.
+      Das gab den Impuls, meine bisherigen Erfahrungen an Schüler weiterzugeben (unsere Zukunft).
+
+
+      Was ich tun kann, dass auch andere in meiner Umgebung offen und angstfrei kommunizieren können, habe ich dann u.a. in einer dreijährigen Ausbildung in Schweden und Ägypten mit dem Namen **"Kommunikation als Kunst"** gelernt.
+      Man kann sagen es ist eine Mischung aus Gewaltfreier Kommunikation, Gestalt-Therapie, Transaktionsanalyse und anderer Ansätze.
+      Über die letzten Jahre hatte ich zusammen mit meiner Lebensgefährtin eine junge autistische Frau bei uns aufgenommen, die unbedingt auf eine geborgene angstfreie Umgebung angewiesen war.
+
+
+      **Was ich suche,** ist ein Team, in dem ich zugleich mein Programmiertalent entfalten und an der Kommunikations-Atmosphäre arbeiten kann.
+      Idealerweise in einer **JavaScript / Bootstrap / React-Umgebung**.
+      Ich bin aber auch bereit neues zu lernen (ich habe in meinem Leben auch schon C, C++, PHP, Java und Go programmiert).
+      </div>
+  action: Lebenslauf
+  ref: process
+  action2: Portfolio
+  ref2: startingpoints
+
+  # Additional Parameters
+
+  # textSize:         36
+  # textPadding:      60
+  # textColor:         "yellow"
+  # textColorPrimary: "#700D00"
+  # buttonSize:        18
+  # buttonColor:       "white"
+  # lineColor:         "#700D00"
+  # opacity:           0.6
+
+
+###########################################################################################################################
+skillset:
+  title: Skillset
+  subtitle: Verschiedene Techniken, Technologien und Erfahrungen, die ich gesammelt habe.
+  subline: ...
+  delay: 0.2
+  processes:
+    - process: "Programmieren"
+      icon: "fa-pencil"
+      bullets:
+        - HTML, CSS, Bootstrap
+        - JavaScript, ES2016, TypeScript
+        - React, Redux
+        - jQuery, Backbone
+        - node.js, Express, Go
+        - MySQL, MongoDB
+        - Processing, D3
+        - Cocos2d-X
+        - Casper.js / Phantom.js
+        - Hugo, Wordpress
+        - "Früher: Drupal, PHP, C++, C, Assembler"
+    - process: "Ausbildung"
+      icon: "fa-clipboard"
+      bullets:
+        - "Dipl. Inform. (FH) / European Business School"
+        - "FreeCodeCamp, Zertifikate 1+2"
+        - "Kommunikation als Kunst (u.a. Gewaltfreie Kommunikation, Human Dynamics, Transaktionsanalyse / Gefühlsspiele, Gestalt-Therapie)"
+        - "Klassenlehrer an Waldorfschulen / Intuitive Pädagogik"
+    - process: "Projekte"
+      icon: "fa-rocket"
+      bullets:
+        - "Mitgründer eines Verlags-Startups, ca. 150 Veröffentlichungen, Gesamtauflage > 500.000"
+        - "Computer-Spielplatz (Einsatz im Schulunterricht)"
+        - "Internet-Archiv, ca. 10.000 historische Dokumente"
+        - "Roman: Die Geschichte der Cypherpunks (2017)" 
+        - "Sachbuch: Der Abgrund der Freiheit und die erste Liebe (2004)"
+        - "Sachbuch: Knowledge Communities (2000)"
+
+###########################################################################################################################
+portfolio:
+  title: Portfolio
+  subtitle: Hier finden Sie (m)eine Auswahl meiner Projekte und Initiativen.
+
+  filters: [
+    HTML CSS,
+    JavaScript,
+    Bootstrap,
+    jQuery,
+    React Redux,
+    nodejs Express,
+    Hugo,
+    Go,
+    Backbone,
+    Processing,
+    Android,
+    Apache Cordova,
+    AsciiDoctor,
+    Cocos2d-X,
+    D3,
+    PHP,
+    mySQL,
+    MongoDB,
+    Casperjs,
+    Kryptographie,
+    Buch,
+    Philosophie,
+    Kommunikation,
+  ]
+  all: Alle
+
+  elements:
+  - image: img/portfolio/fcc.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: FreeCodeCamp
+    captionCategory: "Start Coding Now ..."
+    link: https://www.freecodecamp.com
+    filters:
+      - Programmieren
+      - HTML CSS
+      - JavaScript
+      - Bootstrap
+      - jQuery
+      - React Redux
+      - D3
+      - nodejs Express
+      - MongoDB
+    content: >
+      <p>2017</p>
+
+
+      **[Profil bei FreeCodeCpomp](https://www.freecodecamp.com/lafisrap)**
+
+
+      **Zertifikate:**  
+
+      [Fontend-Zertifikat](https://www.freecodecamp.com/lafisrap/front-end-certification)  
+
+      [Data Viz-Zertifikat](https://www.freecodecamp.com/lafisrap/data-visualization-certification)
+
+  - image: img/portfolio/polls.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: "Polls out of Berlin"
+    captionCategory: FreeCodeCamp, jQuery / Express / MongoDB
+    link: https://codepen.io/lafisrap/full/LyNvow/
+    filters:
+      - HTML CSS
+      - Bootstrap
+      - JavaScript
+      - jQuery
+      - nodejs Express
+      - MongoDB
+    content: >
+      <p>2017</p>
+
+
+      **[Polls out of Berlin](https://infinite-cliffs-16818.herokuapp.com/)**  
+
+      **[GitHub](https://github.com/lafisrap/fcc_voting-app)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, Bootstrap, JavaScript, jQuery, node.js, Express, MongoDB
+
+
+      **Besonderheiten:** Entwicklung mit C9.io, hosting unter Heroku
+
+
+  - image: img/portfolio/rogue.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: "Rogue Reaction: Eine Variante des Spiele-Klassikers"
+    captionCategory: FreeCodeCamp, React/Redux
+    link: https://codepen.io/lafisrap/full/LyNvow/
+    filters:
+      - HTML CSS
+      - JavaScript
+      - Bootstrap
+      - React Redux
+    content: >
+      <p>2017</p>
+
+
+      **[CodePen](https://codepen.io/lafisrap/full/LyNvow/)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, JavaScript, React, Redux
+
+
+      **Besonderheiten:** CSS-Kreisausschnitt für Spieler
+
+  - image: img/portfolio/2064.jpg
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: 2064 - Die Geschichte der Cypherpunks
+    captionCategory: Leseprobe
+    link: text/2064.pdf
+    filters:
+      - Philosophie
+      - Buch
+      - Kryptographie
+    content: >
+      <p>2017</p>
+
+
+      **[Leseprobe](text/2064.pdf)**
+
+
+      **Story:**  
+
+      Eine Gruppe von Schülern lernt im Jahr 2064 wie in unserer Zeit das Internet befreit wurde --
+      von einer Hackerin, die bei dem Befreiungskampf dabei war.
+
+
+  - image: img/portfolio/search.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Creative Commons Image Search
+    captionCategory: FreeCodeCamp, jQuery / Express / MongoDB
+    link: https://codepen.io/lafisrap/full/pPYpOj
+    filters:
+      - HTML CSS
+      - Bootstrap
+      - JavaScript
+      - React Redux
+      - nodejs Express
+    content: >
+      <p>2017</p>
+
+
+      **[Creative Image Search](https://codepen.io/lafisrap/full/pPYpOj)**  
+
+      **[GitHub](https://github.com/lafisrap/fcc_ImageSearch)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, Bootstrap, JavaScript, React Redux, nodejs, Express
+
+
+      **Besonderheiten:** keine
+
+
+  - image: img/portfolio/lifegame.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: The Game of Life
+    captionCategory: FreeCodeCamp, React/Redux
+    link: http://codepen.io/lafisrap/full/yMZyXw/
+    filters:
+      - HTML CSS
+      - JavaScript 
+      - React Redux 
+    content: >
+      <p>2017</p>
+
+
+      **[CodePen](https://codepen.io/lafisrap/full/yMZyXw/)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, JavaScript, React, Redux
+
+
+      **Besonderheiten:** keine
+
+  - image: img/portfolio/spielplatz.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Computer-Spielplatz
+    captionCategory: Golang, Bootstrap, Khan Live-Editor
+    link: video/spielplatz.mp4
+    filters:
+      - Go
+      - Websockets
+      - HTML CSS
+      - Bootstrap
+      - Backbone
+      - JavaScript
+      - jQuery
+      - mySQL
+      - Processing
+      - Android
+      - Apache Cordova
+      - Casperjs
+    content: >
+      <p>2017</p>
+      
+
+      (derzeit nicht online)
+
+
+      **Sprachen/Libraries:** Go, Beego, Websockets, LibGit2, HTML, CSS, Bootstrap, JavaScript, jQuery, Backbone, Processing.js, LiveEditor
+
+
+      **Besonderheiten:** Integration des Khan Academy LiveEditor, Generierung von Android Apps aus Processing.js Apps, Integration von Git-Funktionen
+
+
+      **Credit:** Khan Academy
+
+  - image: img/portfolio/simongame.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Das Simon-Spiel
+    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
+    link: http://codepen.io/lafisrap/full/XpypRz/
+    filters:
+      - HTML CSS
+      - JavaScript
+      - Bootstrap
+      - jQuery
+    content: >
+      <p>2017</p>
+
+
+      **[CodePen](https://codepen.io/lafisrap/full/XpypRz/)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
+
+
+      **Besonderheiten:** Detailnachbildung des Originals mit CSS
+
+  - image: img/portfolio/meteorites.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Meteroite Landings Worldwide
+    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
+    link: https://codepen.io/lafisrap/full/oWpRqv/
+    filters:
+      - HTML CSS
+      - JavaScript
+      - D3
+      - React Redux
+    content: >
+      <p>2017</p>
+
+
+      **[CodePen](https://codepen.io/lafisrap/full/oWpRqv/)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
+
+
+      **Besonderheiten:** Rendering mit D3 und Topojson
+
+  - image: img/portfolio/heatmap.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Monthly Global Land-Surface Temperature
+    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
+    link: https://codepen.io/lafisrap/full/oWpRqv/
+    filters:
+      - HTML CSS
+      - JavaScript
+      - D3
+      - React Redux
+    content: >
+      <p>2017</p>
+
+
+      **[CodePen](https://codepen.io/lafisrap/full/oWpRqv/)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
+
+
+      **Besonderheiten:** Rendering mit D3
+
+  - image: img/portfolio/tictactoe.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Tic Tac Toe (auf einem schwedischen See)
+    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
+    link: http://codepen.io/lafisrap/full/zNjZLP/
+    filters:
+      - HTML CSS
+      - JavaScript
+      - Bootstrap
+      - jQuery
+    content: >
+      <p>2017</p>
+
+
+      **[CodePen](https://codepen.io/lafisrap/full/zNjZLP/)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
+
+
+      **Besonderheiten:** 3D-Darstellung
+
+  - image: img/portfolio/clock.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Pomodoro Uhr
+    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
+    link: https://codepen.io/lafisrap/full/jyYXpa/
+    filters:
+      - HTML CSS
+      - JavaScript
+      - Bootstrap
+      - jQuery
+    content: >
+      <p>2017</p>
+
+
+      **[CodePen](https://codepen.io/lafisrap/full/jyYXpa/)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
+
+
+      **Besonderheiten:** keine
+
+  - image: img/portfolio/calc.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Taschenrechner
+    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
+    link: https://codepen.io/lafisrap/full/GrOLBr
+    filters:
+      - HTML CSS
+      - JavaScript
+      - Bootstrap
+      - jQuery
+    content: >
+      <p>2017</p>
+
+
+      **[CodePen](https://codepen.io/lafisrap/full/GrOLBr)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
+
+
+      **Besonderheiten:** Vollständig auflösungsunabhängig
+
+  - image: img/portfolio/21worte.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: 21 Worte - Tetris und Scrabble in einem
+    captionCategory: Cocos2d-X, JavaScript
+    link: http://c2064.in-berlin.de/c2064/21worte.mp4
+    filters:
+      - Cocos2d-X
+      - JavaScript
+      - Apache Cordova
+      - Android
+    content: >
+      <p>2016</p>
+
+
+      **[Video](http://c2064.in-berlin.de/c2064/21worte.mp4)**  
+
+      **[Android](http://c2064.in-berlin.de/c2064/21worte.apk)**  
+
+      **[Web](http://c2064.in-berlin.de/c2064/21worte)**  
+
+
+      **Sprachen/Libraries:** JavaScript, Cocos2d-X
+
+
+      **Besonderheiten:** 50.000 Worte der deutschen Sprache enthalten
+
+
+      **Credit:** Maarja Urb, Grafik / Dieter Schwartz, Sound
+
+  - image: img/portfolio/malernen.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Malernen Multimediales Unterrichtsmaterial
+    captionCategory: HTML, CSS, AsciiDoctor, Bootstrap 
+    filters:
+      - HTML CSS
+      - Bootstrap
+      - Apache Cordova
+      - Android
+      - Processing
+      - AsciiDoctor
+    content: >
+      <p>2017</p>
+
+
+      **[http://c2064.in-berlin.de/werkstatt/](http://c2064.in-berlin.de/werkstatt/)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, Bootstrap, Apache Cordova, Android, Processing, AsciiDoctor
+
+
+      **Besonderheiten:** Hugo mit Startbootstrap-Theme verbunden
+
+
+      **Credit:** Bilder von Maarja Urb, Berlin
+
+
+  - image: img/portfolio/frukonstnar.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Fru Konstnär (Schwedisches Lebens-Theater)
+    captionCategory: HTML, CSS, Bootstrap, jQuery, Hugo  
+    filters:
+      - HTML CSS
+      - Bootstrap
+      - JavaScript
+      - jQuery
+      - Hugo
+    content: >
+      <p>2017</p>
+
+
+      **[Fru Konstnär](https://maarjaurb.github.io/frukonstnar/)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, Bootstrap, JavaScript, jQuery, Hugo
+
+
+      **Besonderheiten:** Hugo mit Startbootstrap-Theme verbunden
+
+
+      **Credit:** Bilder von Maarja Urb, Berlin
+
+
+  - image: img/portfolio/steinerdb.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Malernen Multimediales Unterrichtsmaterial
+    captionCategory: HTML, CSS, AsciiDoctor, Bootstrap 
+    filters:
+      - HTML
+      - JavaScript
+      - PHP
+      - mySQL
+    content: >
+      <p>2009</p>
+
+
+      **[Steiner-Datenbank](http://www.steinerdatenbank.de)**
+
+
+      **Sprachen/Libraries:** HTML, JavaScript, PHP, mySQL
+
+
+      **Besonderheiten:** Über 10.000 Origial-Dokumente, Software läuft seit 2008 nahezu unverändert.
+
+
+  - image: img/portfolio/cv.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Lebenslauf/C.V.
+    captionCategory: HTML, CSS, Bootstrap, Hugo 
+    filters:
+      - HTML CSS
+      - Bootstrap
+      - Hugo
+      - Kommunikation
+    content: >
+      <p>2017</p>
+
+
+      **[http://michaelschmidt.berlin](http://michaelschmidt.berlin)**
+
+
+      **Sprachen/Libraries:** HTML, CSS, Bootstrap, Hugo
+
+
+      **Besonderheiten:** Hugo mit Startbootstrap-Theme verbunden
+
+
+      **Credit:** Bilder von Maarja Urb, Berlin
+
+
+  - image: img/portfolio/iris.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Iris - Plats för Möte (Raum für Begegnung)
+    captionCategory: "Kommunikation: Ausbildung und Übung"
+    link: http://irisjohansson.com
+    filters:
+      - Philosophie
+      - Kommunikation
+    content: >
+      <p>2008-2017</p>
+
+
+      **[http://irisjohansson.com](http://irisjohansson.com)**
+
+
+      **Kurse besucht:**  
+
+      Kommunikation als Kunst (3 Jahre)  
+
+      Lebensspiele (fortlaufend)  
+
+      10+ Primärwochen (Konfliktarbeit)  
+
+
+      **Kurse veranstaltet:**  
+
+      Kommunikation als Kunst (3 Jahre)  
+
+      Gedankenfehler der Westlichen Kultur  
+
+      Öffentliche Vorträge
+
+
+      **Kurse gehalten:**  
+
+      Die Befreiung des Internets
+
+  - image: img/portfolio/cryptoparty.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: CryptoParty Berlin
+    captionCategory: Verschlüsselung, Privatsphäre und viel Freude
+    link: https://www.cryptoparty.in/berlin
+    filters:
+      - Kommunikation
+      - Kryptographie
+      - Philosophie
+    content: >
+      <p>2013-2017</p>
+
+
+      **[CryptoParty in Berlin](https://www.cryptoparty.in/berlin/)**
+
+
+      **Technologien:** PGP/GPG, TOR, OTR, OMEMO, Veracrypt, Tails, Conversations, Ricochet, Tor Browser, Tor Messenger
+
+
+      **Besonderheiten:** Ich habe ca. 250 CryptoParties coorganisiert. Eigene regelmäßige Party in Wedding.
+
+  - image: img/portfolio/enigmail.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: CryptoParty Berlin
+    captionCategory: E-Mail-Verschlüsselung
+    link: https://www.cryptoparty.in/berlin
+    filters:
+      - Kryptographie
+    content: >
+      <p>2015</p>
+
+
+      **[Enigmail, Beitrag zu Key-Import](https://sourceforge.net/p/enigmail/source/ci/6757329767dcbc6b3bf0d3b96f635eebb75fea6b/)**
+
+
+      **Technologien:** JavaScript
+
+
+      **Besonderheiten:** Pull Request an bekanntes Internet-Projekt
+
+  - image: img/portfolio/id.png
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Initiative Demokratie
+    captionCategory: Ein Denkpapier
+    link: http://c2064.in-berlin.de/id
+    filters:
+      - Philosophie
+      - HTML CSS
+      - Hugo
+    content: >
+      <p>2015-2017</p>
+
+
+      **[Denkpapier](http://c2064.in-berlin.de/id)**
+
+  - image: img/portfolio/abgrund.jpg
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Der Abgrund der Freiheit und die erste Liebe
+    captionCategory: Goethes Faust im Leben
+    link: https://www.amazon.de/Abgrund-Freiheit-die-erste-Liebe/dp/3937078487
+    filters:
+      - Philosophie
+      - Buch
+    content: >
+      <p>2004</p>  
+
+
+      **[bei Amazon](https://www.amazon.de/Abgrund-Freiheit-die-erste-Liebe/dp/3937078487)**
+
+
+      **Vorwort:**
+      Stellen Sie sich vor,
+      jemand wäre so begeistert
+      von einem fernen Land,
+      dass er sich ein ganzes Leben
+      damit beschäftigt,
+      alle Bücher darüber liest
+      und immer und überall
+      davon schwärmt — aber nie hinfährt!
+
+
+      Für mich wäre es das Gleiche,
+      wenn man den Faust von Goethe —
+      und alles, was darüber
+      geschrieben wurde —
+      nur liest, Zitate daraus verwendet
+      und ihn als großes Werk lobt.
+
+
+      Das Beste von einem fremden Land
+      und vom Faust liegt in dem,
+      was man mit ihm selbst erlebt.
+      Alles, was darüber gesagt
+      oder geschrieben wird,
+      kann Anregung sein,
+      mehr nicht.
+
+
+      Michael Schmidt
+      Herbst 2004
+
+  - image: img/portfolio/knowledgecommunities.jpg
+    modalImage: img/backgrounds/gold.jpg
+    captionTitle: Knowledge Communities
+    captionCategory: Wisensaustausch im Internet
+    link: https://www.amazon.de/Knowledge-Communities-virtuellen-Wissensmärkten-Unternehmen/dp/3827316758
+    filters:
+      - Buch
+      - Kommunikation
+    content: >
+      2000  
+
+
+      **[bei Amazon](https://www.amazon.de/Knowledge-Communities-virtuellen-Wissensmärkten-Unternehmen/dp/3827316758)**
+
+# Addieren ...
+  # Malernen
+
+
+
+
+  backgroundColor:        "#eef"
+  # titleSize:              50
+  # titleColor:             "#333"
+  # lineColor:              "#BA4C3D"
+  # textSize:               18
+  # textColor:              "#333"
+  # filterSize:             12
+  # filterColor:            "#1B0728"
+  # filterActiveColor:      "#BA4C3D"
+  # filterActiveTextColor:  white
+
+  # captionSize:            16
+  # captionColor:           white
+  # captionBackgroundColor: "#BA4C3D"
+  # panelBackgroundColor:   "182, 76, 61"  # Color has to be written like this (no brackets, no hex, no string), due to opacity
+  # panelColor:             white
+  # panelTitleSize:         60
+  # panelTitleColor:        blue
+  # panelTextSize:          20
+  # panelTextColor:         blue
+
+###########################################################################################################################
+cv:
+  title: Mein Lebenslauf
+  subtitle: Stand 25.6.2017
+  delay: 0.2
+  processes:
+    - process: "1967 - 1995"
+      icon: "fa-clipboard"
+      bullets:
+        - "Geb. am 28.5.1967 in Valdivia/Chile"
+        - "**1970** Umzug nach Deutschland"
+        - "**1984** Gewinn der Goldenen Diskette (BMBF, BILD, Chip)"
+        - "**1985**-**1987** Professionelle Videospielprogrammierung"
+        - "**1987** Abitur"
+        - "**1988** Bundeswehr"
+        - "**1989**-**1991** Arbeit als Entwicklungsingenieur (PCM, Kontron)"
+        - "**1991**-**1995** Studium an der European Business School"
+    - process: "1996 - 2008"
+      icon: "fa-pencil"
+      bullets:
+        - "**1996**-**1999** Projektleiter und Berater in Internet-Projekten (Allianz Leben, Raysono)"
+        - "**2000** Buch „Knowledge Communities“ (Addison Wessley)"
+        - "**2000**-**2002** Wissensmanagement-Beratung (2002 Beteiligung am Preis „Wissensmanager des Jahres, kleine Firmen“ für LHI"
+        - "**2003**-**2007** Aufbau eines Buch- und CD-Verlags „Archiati-Verlag“, heute „Rudolf Steiner Ausgaben“"
+        - "**2004** Buch „Der Abgrund der Freiheit und die erste Liebe“ (Goethes Faust)"
+    - process: "2008 -"
+      icon: "fa-rocket"
+      bullets:
+        - "**2008**-**2010** Ausbildung zum Klassenlehrer an Waldorfschulen"
+        - "**2009**-**2012** Nebenberufliche Ausbildung in „Intuitive Pädagogik“"
+        - "**2011**-heute Computerunterricht an verschiedenen Waldorfschulen (eigener Computer-Spielplatz)"
+        - "**2012**-**2015** Nebenberufliche Ausbildung in „Kommunkation als Kunst“"
+        - "**2015** Smartphone-Spiel „21 Worte“"
+        - "**2017** Buch „2064 - Die Geschichte der Cypherpunks“ (Internet-Veröffentlichung)"
+        - "**2017**- FreeCodeCamp, Online-Programmier-Uni (Teilnahme)"
+        - "**2017**- Computer Coaching für ältere Menschen"
+  subline: ""
+
+  columnHeaderSize: 40
+
+
+
+###########################################################################################################################
+footer:
+  image: "img/wedding/schraders.jpg"
+  opacity: "0.5"
+  details: # 2, 3 or 4 entries
+    - icon:   "fa-phone"
+      title:  "Telefon / Whatsapp"
+      text:   "0163-7951207"
+    - icon:   "fa-map-marker"
+      title:  "Adresse"
+      text:   "Turiner Straße 21, 13347 Berlin"
+    - icon:   "fa-envelope"
+      title:  "E-Mail"
+      text:   "ccb@michaelschmidt.berlin<br><div style='font-size: 12px; line-height: 14px !important;'>PGP:<br>BA00 4AD6 DB24 FA89 A045<br>B3FF 37DA B9A1 06C1 767D</div>"
+    - icon:   "fa-wechat"
+      title:  "Jabber"
+      text:   "lafisrap@trashserver.net<br><div style='font-size: 12px; line-height: 14px !important;'>OMEMO:<br>4a9e5c8d cb0b9141 661e5b35 476b1c50<br>c28462c6 a77b5212 8aeff39f 3081805d</div>"
+  social:
+    - icon:   "fa-twitter"
+      link:   "https://twitter.com/lafisrap"
+    - icon:   "fa-github"
+      link:   "https://github.com/lafisrap"
+    - icon:   "fa-instagram"
+      link:   "https://www.instagram.com/lavisrap"
+    - icon:   "fa-facebook"
+      link:   "https://www.facebook.com/lavisrap"
+  impressumTitle: Impressum
+  impressumText: >
+      <h4>------------- Anbieter -------------</h4>
+      Michael Schmidt<br>
+      Turiner Straße 21<br>
+      13347 Berlin<br>
+      <h4>------------- Kontakt: -------------</h4>
+      Telefon: +49 163 7951207<br>
+      E-Mail: ccb@michaelschmidt.berlin<br>
+      Jabber: lafisrap@trashserver.net<br>
+      Website: michaelschmidt.berlin<br>
+      <h4 style="margin-bottom: 60px;"></h4>
+  copyright: 2017 Michael Schmidt

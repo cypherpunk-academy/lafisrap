@@ -1,0 +1,49 @@
+###############################################################
+#
+# Config File for INVISIBLE UNIVERSITY flavour of VITALITY bootstrap theme
+#
+#--------------------------------------------------------------
+Baseurl = "https://computer-coaching.github.io/cv"
+LanguageCode = "de-DE"
+Title = "Lebenslauf und Profil - Michael Schmidt"
+Theme = "hugo-university-theme"
+publishDir = "docs/de"
+
+[Params]
+	locale = "de-DE"
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# To provide some metadata for search engines feel free to add a few
+  # information about you and your website.
+
+  Flavour = "university"
+	Style = "modern"
+
+	# !Important: Theme colors can be selected in static/less/vitality.less
+	
+	Name = "Lebenslauf und Profil"
+	Description = "Michael Schmidt"
+	Favicon = "favicon.ico"
+	Author = "Lafisrap (Michael Schmidt)"
+
+	# List of Google fonts, for use in less files.
+	#
+	# TIPP! To find fonts:
+	# - Go to fonts.google.com.
+	# - Select a font, open the selected font at the bottom of the page, maybe customize it
+	# - In section "Embed Font" copy the full family value (boldly printed), everything after 'family='.
+	# - Add it in quotation marks to the list below.
+	#
+	# TIPP! A good first step after defining fonts, would be to go to static/less/vitality.less and define the main fonts.
+
+	Fonts = [
+		"Rajdhani:400,500,700",
+		"IM+Fell+English+SC&amp;subset=latin-ext",
+		"Josefin+Sans:300,300i,400,400i,700,700i",
+	]

@@ -1,5 +1,5 @@
 <!-- Quote Call to Action -->
-{{ with .Site.Data.about }}
+{{ with (index $.Site.Data.translations $.Site.Params.locale).about }}
 
 <style>
 {{ if .textSize }}
