@@ -11,6 +11,9 @@ publishDir = "docs/en"
 
 [Params]
 	locale = "en-US"
+	otherLocales = [
+		"Deutsch,de"
+	]
 
 	# You can use Markdown syntax for urls [text](//url.to/source) for
 	# most longer texts.

@@ -703,8 +703,8 @@ section#portfolio #portfoliolist .mix:hover .portfolio-wrapper .caption {
   font-size: 1.5vw;
   line-height: 1.8vw;
   color: black;
-  margin-left: 5vw;
-  margin-right: 5vw;
+  padding-left: 5vw;
+  padding-right: 5vw;
 }
 .modal-content .grid-panel p:last-child {
   margin-bottom: 3vw;

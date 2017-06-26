@@ -1,4 +1,6 @@
 <!-- Header -->
+{{ $otherLocales := .Site.Params.otherLocales }}
+{{ $site := .Site.BaseURL }}
 {{ with (index $.Site.Data.translations $.Site.Params.locale).hero }}
 
 <style>
@@ -47,7 +49,14 @@
         <hr class="colored">
         <div class="brand-name-subtext">{{ .subtitle | markdownify }}</div>
         <hr class="colored">
-        <div>{{ .test }}</div>
+        <div>
+        {{ range $otherLocales }}
+        <a href='{{ $site }}/{{ range (findRE "[^,]+$" . 1) }}{{ . }}{{ end }}'>
+            {{ range (findRE "^[^,]+" . 1) }}{{ . }}{{ end }}
+        </a>
+        
+        {{ end }}
+        </div>
     </div>
     <div class="scroll-down">
         <a class="btn page-scroll" href="#{{ .ref | urlize }}"><i class="fa fa-angle-down fa-fw"></i></a>

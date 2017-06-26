@@ -390,7 +390,7 @@ portfolio:
     modalImage: img/backgrounds/gold.jpg
     captionTitle: Monthly Global Land-Surface Temperature
     captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
-    link: https://codepen.io/lafisrap/full/oWpRqv/
+    link: https://codepen.io/lafisrap/full/GmEZrB
     filters:
       - HTML CSS
       - JavaScript
@@ -400,7 +400,7 @@ portfolio:
       <p>2017</p>
 
 
-      **[CodePen](https://codepen.io/lafisrap/full/oWpRqv/)**
+      **[CodePen](https://codepen.io/lafisrap/full/GmEZrB/)**
 
 
       **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
@@ -648,7 +648,6 @@ portfolio:
     filters:
       - Kommunikation
       - Kryptographie
-      - Philosophie
     content: >
       <p>2013-2017</p>
 
