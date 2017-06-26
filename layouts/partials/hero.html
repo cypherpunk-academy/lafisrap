@@ -51,7 +51,7 @@
         <hr class="colored">
         <div>
         {{ range $otherLocales }}
-        <a href='{{ $site }}/{{ range (findRE "[^,]+$" . 1) }}{{ . }}{{ end }}'>
+        <a href='{{ $site }}/../{{ range (findRE "[^,]+$" . 1) }}{{ . }}{{ end }}'>
             {{ range (findRE "^[^,]+" . 1) }}{{ . }}{{ end }}
         </a>
         
