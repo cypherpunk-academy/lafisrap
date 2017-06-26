@@ -3,7 +3,7 @@
 # Config File for INVISIBLE UNIVERSITY flavour of VITALITY bootstrap theme
 #
 #--------------------------------------------------------------
-Baseurl = "https://computer-coaching.github.io/cv"
+Baseurl = "https://computer-coaching.github.io/cv/en"
 LanguageCode = "en-US"
 Title = "Lebenslauf und Profil - Michael Schmidt"
 Theme = "hugo-university-theme"
