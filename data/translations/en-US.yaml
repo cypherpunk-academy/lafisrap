@@ -57,7 +57,7 @@ about:
 
       With 17 I programmed video games in a professional environment, with 28 secure online banking applications.
       Later I developed a web archive and a computer playground.
-      In my [**portfolio**](#startingpoints) you find a selection of my projects.
+      In my [**portfolio**](#portfolio) you find a selection of my projects.
       I'm currently fluent in **HTML**, **CSS**, **JavaScript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **d3**, **Bootstrap**, **Hugo**.
       But also eager to learn more.
 
@@ -76,7 +76,7 @@ about:
       Idealy in a **JavaScript / Bootstrap / React-Environment**.
       But I also like to learn new things (I did already C, C++, PHP, Java and Go at some point of my life.)
   action: Portfolio
-  ref: startingpoints
+  ref: portfolio
   action2: C. V.
   ref2: process
 

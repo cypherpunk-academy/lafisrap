@@ -5,7 +5,7 @@
 #--------------------------------------------------------------
 Baseurl = "https://computer-coaching.github.io/cv/en"
 LanguageCode = "en-US"
-Title = "Lebenslauf und Profil - Michael Schmidt"
+Title = "Curriculum Vitae and Profile - Michael Schmidt"
 Theme = "hugo-university-theme"
 publishDir = "docs/en"
 

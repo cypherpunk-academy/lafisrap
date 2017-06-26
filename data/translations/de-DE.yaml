@@ -57,7 +57,7 @@ about:
 
       Mit 17 Jahren habe ich professionell Videospiele programmiert, mit 28 sichere Online-Banking-Anwendungen.
       Später ein Web-Archiv und einen Computerspielplatz.
-      In meinem [**Portfolio**](#startingpoints) finden Sie eine Auswahl meiner liebsten Projekte.
+      In meinem [**Portfolio**](#portfolio) finden Sie eine Auswahl meiner liebsten Projekte.
       Derzeit aktuell sind bei mir **HTML**, **CSS**, **JavaScript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **d3**, **Bootstrap**, **Hugo**.
 
 
@@ -78,7 +78,7 @@ about:
   action: Lebenslauf
   ref: process
   action2: Portfolio
-  ref2: startingpoints
+  ref2: portfolio
 
   # Additional Parameters
 
@@ -783,7 +783,7 @@ portfolio:
 
 ###########################################################################################################################
 cv:
-  title: Mein Lebenslauf
+  title: Lebenslauf
   subtitle: Stand 25.6.2017
   delay: 0.2
   processes:
