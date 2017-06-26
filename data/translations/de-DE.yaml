@@ -29,7 +29,7 @@ hero:
   image: "img/backgrounds/bg-header.jpg"
   ref: "about"
   title: "Michael Schmidt"
-  subtitle: "Lebenslauf / C.V."
+  subtitle: "Profil / Lebenslauf"
 
   # titleSize:       "80px"
   subtitleSize:   "50px"
@@ -558,7 +558,7 @@ portfolio:
 
   - image: img/portfolio/steinerdb.png
     modalImage: img/backgrounds/gold.jpg
-    captionTitle: Malernen Multimediales Unterrichtsmaterial
+    captionTitle: Rudolf Steiner Internet-Archiv
     captionCategory: HTML, CSS, AsciiDoctor, Bootstrap 
     filters:
       - HTML
@@ -803,14 +803,14 @@ cv:
       bullets:
         - "**1996**-**1999** Projektleiter und Berater in Internet-Projekten (Allianz Leben, Raysono)"
         - "**2000** Buch „Knowledge Communities“ (Addison Wessley)"
-        - "**2000**-**2002** Wissensmanagement-Beratung (2002 Beteiligung am Preis „Wissensmanager des Jahres, kleine Firmen“ für LHI"
+        - "**2000**-**2002** Wissensmanagement-Beratung (LHI, 2002 gewann die LHI den Preis „Wissensmanager des Jahres, kleine Firmen“)"
         - "**2003**-**2007** Aufbau eines Buch- und CD-Verlags „Archiati-Verlag“, heute „Rudolf Steiner Ausgaben“"
         - "**2004** Buch „Der Abgrund der Freiheit und die erste Liebe“ (Goethes Faust)"
     - process: "2008 -"
       icon: "fa-rocket"
       bullets:
         - "**2008**-**2010** Ausbildung zum Klassenlehrer an Waldorfschulen"
-        - "**2009**-**2012** Nebenberufliche Ausbildung in „Intuitive Pädagogik“"
+        - "**2009**-**2012** Nebenberufliche Ausbildung in „Intuitive Pädagogik“ (3 Jahre)"
         - "**2011**-heute Computerunterricht an verschiedenen Waldorfschulen (eigener Computer-Spielplatz)"
         - "**2012**-**2015** Nebenberufliche Ausbildung in „Kommunkation als Kunst“"
         - "**2015** Smartphone-Spiel „21 Worte“"
