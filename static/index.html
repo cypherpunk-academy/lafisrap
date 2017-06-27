@@ -11,8 +11,10 @@
     <a href="de">Click here if you are not redirected.</a>
     <script>
       var language = navigator.language || navigator.browserLanguage;
-      
+
+      console.log("Language: ", language);
       if (language.indexOf('en') > -1) {
+      console.log("English selcted");
         document.location.href = 'en';
       } else {
         document.location.href = 'de';
