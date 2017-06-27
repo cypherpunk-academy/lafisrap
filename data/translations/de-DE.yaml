@@ -51,13 +51,13 @@ about:
       Beides mache ich für mein Leben gerne.
 
 
-      <span data-toggle="collapse" data-target="#hidden-about" onclick="$(this).fadeOut()">Mehr ...</span>
+      <span class="more-btn" data-toggle="collapse" data-target="#hidden-about" onclick="$(this).fadeOut()">Mehr ...</span>
       <div class="collapse" id="hidden-about">
 
 
       Mit 17 Jahren habe ich professionell Videospiele programmiert, mit 28 sichere Online-Banking-Anwendungen.
       Später ein Web-Archiv und einen Computerspielplatz.
-      In meinem [**Portfolio**](#portfolio) finden Sie eine Auswahl meiner liebsten Projekte.
+      In meinem <a href="#portfolio" class="page-scroll">**Portfolio**</a> finden Sie eine Auswahl meiner liebsten Projekte.
       Derzeit aktuell sind bei mir **HTML**, **CSS**, **JavaScript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **d3**, **Bootstrap**, **Hugo**.
 
 
@@ -108,7 +108,7 @@ skillset:
         - jQuery, Backbone
         - node.js, Express, Go
         - MySQL, MongoDB
-        - Processing, D3
+        - Processing, D3, Paperjs
         - Cocos2d-X
         - Casper.js / Phantom.js
         - Hugo, Wordpress
@@ -119,16 +119,14 @@ skillset:
         - "Dipl. Inform. (FH) / European Business School"
         - "FreeCodeCamp, Zertifikate 1+2"
         - "Kommunikation als Kunst (u.a. Gewaltfreie Kommunikation, Human Dynamics, Transaktionsanalyse / Gefühlsspiele, Gestalt-Therapie)"
-        - "Klassenlehrer an Waldorfschulen / Intuitive Pädagogik"
     - process: "Projekte"
       icon: "fa-rocket"
       bullets:
-        - "Mitgründer eines Verlags-Startups, ca. 150 Veröffentlichungen, Gesamtauflage > 500.000"
-        - "Computer-Spielplatz (Einsatz im Schulunterricht)"
-        - "Internet-Archiv, ca. 10.000 historische Dokumente"
-        - "Roman: Die Geschichte der Cypherpunks (2017)" 
-        - "Sachbuch: Der Abgrund der Freiheit und die erste Liebe (2004)"
-        - "Sachbuch: Knowledge Communities (2000)"
+        - "Coorganisator von ca. 250 CryptoParties in Berlin (2013-2017)"
+        - "Computer-Spielplatz (Einsatz im Schulunterricht, 2015-2017)"
+        - "Roman: Die Geschichte der Cypherpunks (2016)" 
+        - "Internet-Archiv, ca. 10.000 historische Dokumente (2008-2017)"
+        - "Mitgründer eines Verlags-Startups, ca. 150 Veröffentlichungen, Gesamtauflage > 500.000 (2003-2008, Verlag ist noch aktiv)"
 
 ###########################################################################################################################
 portfolio:
@@ -147,8 +145,10 @@ portfolio:
     Backbone,
     Processing,
     Android,
+    GPG PGP,
     Apache Cordova,
     AsciiDoctor,
+    Paperjs,
     Cocos2d-X,
     D3,
     PHP,
@@ -249,8 +249,9 @@ portfolio:
       - Philosophie
       - Buch
       - Kryptographie
+      - AsciiDoctor
     content: >
-      <p>2017</p>
+      <p>2016</p>
 
 
       **[Leseprobe](text/2064.pdf)**
@@ -321,6 +322,7 @@ portfolio:
       - Bootstrap
       - Backbone
       - JavaScript
+      - Paperjs
       - jQuery
       - mySQL
       - Processing
@@ -560,6 +562,7 @@ portfolio:
     filters:
       - Kommunikation
       - Kryptographie
+      - GPG PGP
     content: >
       <p>2013-2017</p>
 
@@ -692,7 +695,7 @@ cv:
         - "**2011**-heute Computerunterricht an verschiedenen Waldorfschulen (eigener Computer-Spielplatz)"
         - "**2012**-**2015** Nebenberufliche Ausbildung in **„Kommunkation als Kunst“**"
         - "**2015** Smartphone-Spiel „21 Worte“"
-        - "**2017** Buch „2064 - Die Geschichte der Cypherpunks“ (Internet-Veröffentlichung)"
+        - "**2016** Buch „2064 - Die Geschichte der Cypherpunks“ (Internet-Veröffentlichung)"
         - "**2017**- FreeCodeCamp, Online-Programmier-Uni (Teilnahme)"
   subline: ""
 

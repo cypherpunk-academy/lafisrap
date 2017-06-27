@@ -57,7 +57,7 @@ about:
 
       With 17 I programmed video games in a professional environment, with 28 secure online banking applications.
       Later I developed a web archive and a computer playground.
-      In my [**portfolio**](#portfolio) you find a selection of my projects.
+      In my <a href="#portfolio" class="page-scroll">**portfolio**</a> you find a selection of my projects.
       I'm currently fluent in **HTML**, **CSS**, **JavaScript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **d3**, **Bootstrap**, **Hugo**.
       But also eager to learn more.
 
@@ -108,7 +108,7 @@ skillset:
         - jQuery, Backbone
         - node.js, Express, Go
         - MySQL, MongoDB
-        - Processing, D3
+        - Processing, D3, Paperjs
         - Cocos2d-X
         - Casper.js / Phantom.js
         - Hugo, Wordpress
@@ -119,16 +119,14 @@ skillset:
         - "Dipl. Inform. (FH) / European Business School"
         - "FreeCodeCamp, Certificates 1+2"
         - "Communication As Art (u.a. NVC, Human Dynamics, Transaction Analysis / Games adults play, Gestalt Therapy)"
-        - "Class teacher at Waldorf schools / Intuitive Pedagogy"
     - process: "Projects"
       icon: "fa-rocket"
       bullets:
-        - "Cofound of a publishing startup, ~150 Veröffentlichungen, total paid circulation > 500.000"
+        - "Coorganizer of appr. 250 CryptoParties in Berlin (2013-2017)"
         - "Computer Playground (Used in schools 2015-17)"
+        - "Novel: Die Geschichte der Cypherpunks (The Cypherpunks Tale, 2016)" 
         - "Internet Archive, ca. 10.000 historical documents"
-        - "Novel: Die Geschichte der Cypherpunks (The Cypherpunks Tale, 2017)" 
-        - "Book: Der Abgrund der Freiheit und die erste Liebe (The Abyss of Freedom and the First Love, 2004)"
-        - "Book: Knowledge Communities (2000)"
+        - "Cofound of a publishing startup, ~150 Veröffentlichungen, total paid circulation > 500.000 (company is still alive)"
 
 ###########################################################################################################################
 portfolio:
@@ -146,9 +144,11 @@ portfolio:
     Go,
     Backbone,
     Processing,
+    GPG PGP,
     Android,
     Apache Cordova,
     AsciiDoctor,
+    Paperjs,
     Cocos2d-X,
     D3,
     PHP,
@@ -249,8 +249,9 @@ portfolio:
       - Philosophy
       - Book
       - Cryptography
+      - AsciiDoctor
     content: >
-      <p>2017</p>
+      <p>2016</p>
 
 
       **[Leseprobe](text/2064.pdf)**
@@ -316,6 +317,7 @@ portfolio:
       - Backbone
       - JavaScript
       - jQuery
+      - Paperjs
       - mySQL
       - Processing
       - Android
@@ -553,6 +555,7 @@ portfolio:
     filters:
       - Communication
       - Cryptography
+      - GPG PGP
     content: >
       <p>2013-2017</p>
 
@@ -630,7 +633,7 @@ cv:
     - process: "1967 - 1995"
       icon: "fa-clipboard"
       bullets:
-        - "Borne May 28th 1967 in Valdivia/Chile"
+        - "Born May 28th 1967 in Valdivia/Chile"
         - "**1970** Moved to Germany"
         - "**1984** Goldenen Diskette (Ministry Of Technology, BILD, Chip)"
         - "**1985**-**1987** Video games programming"
@@ -641,7 +644,7 @@ cv:
     - process: "1996 - 2008"
       icon: "fa-pencil"
       bullets:
-        - "**1996**-**1999** Project leader and consultant in Internet projects (Allianz Leben, Raysono)"
+        - "**1996**-**1999** Project manager and consultant on Internet projects (Allianz Leben, Raysono)"
         - "**2000** Book „Knowledge Communities“ (Addison Wessley)"
         - "**2000**-**2002** Knowledge Management-Consulting (LHI, 2002 LHI won „Wissensmanager des Jahres, small companies“"
         - "**2003**-**2007** Cofunding a book and CD startup: „Archiati-Verlag“, today „Rudolf Steiner Ausgaben“"
@@ -654,7 +657,7 @@ cv:
         - "**2011**-today Computer education at different Waldorf schools (own Computer Playground)"
         - "**2012**-**2015** 3 years education **„Kommunkation als Kunst“** (Communication As Art)"
         - "**2015** Smartphone-Game „21 Words"
-        - "**2017** Book „2064 - Die Geschichte der Cypherpunks“ (2064 - The Cypherpunks Tale)"
+        - "**2016** Book „2064 - Die Geschichte der Cypherpunks“ (2064 - The Cypherpunks Tale)"
         - "**2017**- FreeCodeCamp, Online-Programming-University (2 Certificates, 3rd under way)"
   subline: ""
 
