@@ -51,7 +51,7 @@ about:
       I do both with great enthusiasm.
 
 
-      <span data-toggle="collapse" data-target="#hidden-about" onclick="$(this).fadeOut()">More ...</span>
+      <span class="more-btn" data-toggle="collapse" data-target="#hidden-about" onclick="$(this).fadeOut()">More ...</span>
       <div class="collapse" id="hidden-about">
 
 
