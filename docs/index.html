@@ -9,6 +9,14 @@
   <body>
     <h1>Redirecting...</h1>
     <a href="de">Click here if you are not redirected.</a>
-    <script>var n=location.href.replace("index.php?/", "");if (n!=location.href)location=n;</script>
+    <script>
+      var language = navigator.language || navigator.browserLanguage;
+      
+      if (language.indexOf('en') > -1) {
+        document.location.href = 'en';
+      } else {
+        document.location.href = 'de';
+      }
+    </script>
   </body>
 </html>
