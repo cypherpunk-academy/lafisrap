@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://computer-coaching.github.io/cv/en/categories/</loc>
+    <loc>http://cv.michaelschmidt.berlin/en/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://computer-coaching.github.io/cv/en/</loc>
+    <loc>http://cv.michaelschmidt.berlin/en/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://computer-coaching.github.io/cv/en/tags/</loc>
+    <loc>http://cv.michaelschmidt.berlin/en/tags/</loc>
     <priority>0</priority>
   </url>
   

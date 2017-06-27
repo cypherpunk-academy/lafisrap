@@ -64,12 +64,12 @@ about:
 
       I learnt to communicate in an open way, without fear, in my education as a Waldorf teacher.
       I decided to do this education after I **cofounded and built up a publishing house startup** for five years and then as 40th book I published one about Waldorf pedagogy -- and fell in love.
-      I had the impuls to pass one to young folk, what I had experienced so far in my life.
+      I had the impuls to pass on to young folk, what I had experienced so far in my life.
 
 
       What I can do to **help others** to communicate in an open way, without fear, I learnt in a three years course called **"Comunication As Art"**
       I would say that this is a mixture of Nonviolent Communication, Gestalt Therapy, Transaction Analysis and other methods.
-      Together with my patner I also hosted a young autistic woman for the last three years. She was in need of a secure environment without fear.
+      Together with my partner I also hosted a young autistic woman for the last three years. She was in need of a secure environment without fear.
 
 
       After these experiences, as a new step in my life, **I am looking for a team** where I can use my programming talents and help improving the communication atmosphere.
@@ -380,92 +380,6 @@ portfolio:
 
       **Special:** Rendering using D3 and Topojson
 
-  - image: img/portfolio/heatmap.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Monthly Global Land-Surface Temperature
-    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
-    link: https://codepen.io/lafisrap/full/GmEZrB
-    filters:
-      - HTML CSS
-      - JavaScript
-      - D3
-      - React Redux
-    content: >
-      <p>2017</p>
-
-
-      **[CodePen](https://codepen.io/lafisrap/full/GmEZrB/)**
-
-
-      **Languages/libraries:** HTML, CSS, JavaScript, jQuery
-
-
-      **Special:** Rendering using D3
-
-  - image: img/portfolio/tictactoe.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Tic Tac Toe (on a swedish lake)
-    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
-    link: http://codepen.io/lafisrap/full/zNjZLP/
-    filters:
-      - HTML CSS
-      - JavaScript
-      - Bootstrap
-      - jQuery
-    content: >
-      <p>2017</p>
-
-
-      **[CodePen](https://codepen.io/lafisrap/full/zNjZLP/)**
-
-
-      **Languages/libraries:** HTML, CSS, JavaScript, jQuery
-
-
-      **Special:** 3D appearance
-
-  - image: img/portfolio/clock.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Pomodoro Clock
-    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
-    link: https://codepen.io/lafisrap/full/jyYXpa/
-    filters:
-      - HTML CSS
-      - JavaScript
-      - Bootstrap
-      - jQuery
-    content: >
-      <p>2017</p>
-
-
-      **[CodePen](https://codepen.io/lafisrap/full/jyYXpa/)**
-
-
-      **Languages/libraries:** HTML, CSS, JavaScript, jQuery
-
-
-  - image: img/portfolio/calc.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Calculator
-    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
-    link: https://codepen.io/lafisrap/full/GrOLBr
-    filters:
-      - HTML CSS
-      - JavaScript
-      - Bootstrap
-      - jQuery
-    content: >
-      <p>2017</p>
-
-
-      **[CodePen](https://codepen.io/lafisrap/full/GrOLBr)**
-
-
-      **Languages/libraries:** HTML, CSS, JavaScript, jQuery
-
-
-      **Special:** Resolution independent (vw, vh)
-
   - image: img/portfolio/21worte.png
     modalImage: img/backgrounds/gold.jpg
     captionTitle: 21 Words - Tetris and Scrabble united
@@ -578,7 +492,6 @@ portfolio:
       - HTML CSS
       - Bootstrap
       - Hugo
-      - Communication
     content: >
       <p>2017</p>
 
@@ -652,40 +565,6 @@ portfolio:
 
       **Special:** I coorganized ~250 CryptoParties. My own party is in Wedding.
 
-  - image: img/portfolio/enigmail.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: CryptoParty Berlin
-    captionCategory: Email encryption
-    link: https://www.cryptoparty.in/berlin
-    filters:
-      - Cryptography
-    content: >
-      <p>2015</p>
-
-
-      **[Enigmail, Pull request to Key-Import](https://sourceforge.net/p/enigmail/source/ci/6757329767dcbc6b3bf0d3b96f635eebb75fea6b/)**
-
-
-      **Technologies:** JavaScript
-
-
-      **Special:** Pull Request an bekanntes Internet-Projekt
-
-  - image: img/portfolio/id.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Initiative Demokratie
-    captionCategory: Ein Denkpapier
-    link: http://c2064.in-berlin.de/id
-    filters:
-      - Philosophy
-      - HTML CSS
-      - Hugo
-    content: >
-      <p>2015-2017</p>
-
-
-      **[Denkpapier (German)](http://c2064.in-berlin.de/id)**
-
   - image: img/portfolio/abgrund.jpg
     modalImage: img/backgrounds/gold.jpg
     captionTitle: Der Abgrund der Freiheit und die erste Liebe
@@ -758,7 +637,7 @@ cv:
         - "**1987** Abitur"
         - "**1988** Military Service"
         - "**1989**-**1991** Software engineer (PCM, Kontron)"
-        - "**1991**-**1995** European Business School"
+        - "**1991**-**1995** European Business School, information management, degree: **Diplom-Informatiker (FH)**"
     - process: "1996 - 2008"
       icon: "fa-pencil"
       bullets:
@@ -773,11 +652,10 @@ cv:
         - "**2008**-**2010** Education „Klassenlehrer an Waldorfschulen“ (class teacher Waldorf schools)"
         - "**2009**-**2012** 3 years education „Intuitive Pädagogik“"
         - "**2011**-today Computer education at different Waldorf schools (own Computer Playground)"
-        - "**2012**-**2015** 3 years education „Kommunkation als Kunst“ (Communication As Art)"
+        - "**2012**-**2015** 3 years education **„Kommunkation als Kunst“** (Communication As Art)"
         - "**2015** Smartphone-Game „21 Words"
         - "**2017** Book „2064 - Die Geschichte der Cypherpunks“ (2064 - The Cypherpunks Tale)"
         - "**2017**- FreeCodeCamp, Online-Programming-University (2 Certificates, 3rd under way)"
-        - "**2017**- Computer Coaching for elderly people"
   subline: ""
 
   columnHeaderSize: 40

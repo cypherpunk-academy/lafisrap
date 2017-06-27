@@ -386,93 +386,6 @@ portfolio:
 
       **Besonderheiten:** Rendering mit D3 und Topojson
 
-  - image: img/portfolio/heatmap.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Monthly Global Land-Surface Temperature
-    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
-    link: https://codepen.io/lafisrap/full/GmEZrB
-    filters:
-      - HTML CSS
-      - JavaScript
-      - D3
-      - React Redux
-    content: >
-      <p>2017</p>
-
-
-      **[CodePen](https://codepen.io/lafisrap/full/GmEZrB/)**
-
-
-      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
-
-
-      **Besonderheiten:** Rendering mit D3
-
-  - image: img/portfolio/tictactoe.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Tic Tac Toe (auf einem schwedischen See)
-    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
-    link: http://codepen.io/lafisrap/full/zNjZLP/
-    filters:
-      - HTML CSS
-      - JavaScript
-      - Bootstrap
-      - jQuery
-    content: >
-      <p>2017</p>
-
-
-      **[CodePen](https://codepen.io/lafisrap/full/zNjZLP/)**
-
-
-      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
-
-
-      **Besonderheiten:** 3D-Darstellung
-
-  - image: img/portfolio/clock.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Pomodoro Uhr
-    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
-    link: https://codepen.io/lafisrap/full/jyYXpa/
-    filters:
-      - HTML CSS
-      - JavaScript
-      - Bootstrap
-      - jQuery
-    content: >
-      <p>2017</p>
-
-
-      **[CodePen](https://codepen.io/lafisrap/full/jyYXpa/)**
-
-
-      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
-
-
-      **Besonderheiten:** keine
-
-  - image: img/portfolio/calc.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Taschenrechner
-    captionCategory: FreeCodeCamp, HTML, CSS, JavaScript
-    link: https://codepen.io/lafisrap/full/GrOLBr
-    filters:
-      - HTML CSS
-      - JavaScript
-      - Bootstrap
-      - jQuery
-    content: >
-      <p>2017</p>
-
-
-      **[CodePen](https://codepen.io/lafisrap/full/GrOLBr)**
-
-
-      **Sprachen/Libraries:** HTML, CSS, JavaScript, jQuery
-
-
-      **Besonderheiten:** Vollständig auflösungsunabhängig
 
   - image: img/portfolio/21worte.png
     modalImage: img/backgrounds/gold.jpg
@@ -586,7 +499,6 @@ portfolio:
       - HTML CSS
       - Bootstrap
       - Hugo
-      - Kommunikation
     content: >
       <p>2017</p>
 
@@ -659,40 +571,6 @@ portfolio:
 
 
       **Besonderheiten:** Ich habe ca. 250 CryptoParties coorganisiert. Eigene regelmäßige Party in Wedding.
-
-  - image: img/portfolio/enigmail.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: CryptoParty Berlin
-    captionCategory: E-Mail-Verschlüsselung
-    link: https://www.cryptoparty.in/berlin
-    filters:
-      - Kryptographie
-    content: >
-      <p>2015</p>
-
-
-      **[Enigmail, Beitrag zu Key-Import](https://sourceforge.net/p/enigmail/source/ci/6757329767dcbc6b3bf0d3b96f635eebb75fea6b/)**
-
-
-      **Technologien:** JavaScript
-
-
-      **Besonderheiten:** Pull Request an bekanntes Internet-Projekt
-
-  - image: img/portfolio/id.png
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: Initiative Demokratie
-    captionCategory: Ein Denkpapier
-    link: http://c2064.in-berlin.de/id
-    filters:
-      - Philosophie
-      - HTML CSS
-      - Hugo
-    content: >
-      <p>2015-2017</p>
-
-
-      **[Denkpapier](http://c2064.in-berlin.de/id)**
 
   - image: img/portfolio/abgrund.jpg
     modalImage: img/backgrounds/gold.jpg
@@ -797,7 +675,7 @@ cv:
         - "**1987** Abitur"
         - "**1988** Bundeswehr"
         - "**1989**-**1991** Arbeit als Entwicklungsingenieur (PCM, Kontron)"
-        - "**1991**-**1995** Studium an der European Business School"
+        - "**1991**-**1995** Studium an der European Business School, Abschluss: **Dipl.-Inform. (FH)**"
     - process: "1996 - 2008"
       icon: "fa-pencil"
       bullets:
@@ -812,11 +690,10 @@ cv:
         - "**2008**-**2010** Ausbildung zum Klassenlehrer an Waldorfschulen"
         - "**2009**-**2012** Nebenberufliche Ausbildung in „Intuitive Pädagogik“ (3 Jahre)"
         - "**2011**-heute Computerunterricht an verschiedenen Waldorfschulen (eigener Computer-Spielplatz)"
-        - "**2012**-**2015** Nebenberufliche Ausbildung in „Kommunkation als Kunst“"
+        - "**2012**-**2015** Nebenberufliche Ausbildung in **„Kommunkation als Kunst“**"
         - "**2015** Smartphone-Spiel „21 Worte“"
         - "**2017** Buch „2064 - Die Geschichte der Cypherpunks“ (Internet-Veröffentlichung)"
         - "**2017**- FreeCodeCamp, Online-Programmier-Uni (Teilnahme)"
-        - "**2017**- Computer Coaching für ältere Menschen"
   subline: ""
 
   columnHeaderSize: 40
