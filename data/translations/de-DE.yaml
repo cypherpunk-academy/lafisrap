@@ -13,14 +13,14 @@ nav:
       href:   "footer"
 
   # logoText: "My logo"
-  logoImage:   "img/logo.png"
+  logoImage:   "img/home.png"
 
   # Additional Parameters
 
   # menuSize:         "20px"
   # logoTextSize:     "100px"
-  logoHeight:         "50px"
-  logoHeightExpanded: "80px"
+  logoHeight:         "28px"
+  logoHeightExpanded: "32px"
   # colorLight:       "#ff0000"
   # colorDark:         "#330000"
 
@@ -32,7 +32,7 @@ hero:
   subtitle: "Profil / Lebenslauf"
 
   # titleSize:       "80px"
-  subtitleSize:   "50px"
+  # subtitleSize:   "50px"
   #titleColor:     "white"
   #subtitleColor:   "white"
   #lineColor:       "white"

@@ -304,16 +304,16 @@ header .intro-content {
 header .brand-name {
   font-family: "IM Fell English SC", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
-  font-size: 55px;
-  line-height: 55px;
+  font-size: 35px;
+  line-height: 38px;
   text-transform: uppercase;
   font-weight: 900;
-  margin-top: 15px;
+  margin-top: 25px;
   opacity: 0.8;
 }
 header .brand-name-subtext {
-  font-size: 28px;
-  line-height: 36px;
+  font-size: 20px;
+  line-height: 22px;
   font-weight: 500;
 }
 header img {
@@ -366,11 +366,11 @@ header .scroll-down .btn:hover {
   }
   header .brand-name {
     font-size: 80px;
-    line-height: 80px;
+    line-height: 83px;
   }
   header .brand-name-subtext {
-    font-size: 40px;
-    line-height: 55px;
+    font-size: 55px;
+    line-height: 58px;
   }
   header img {
     max-width: 250px;
