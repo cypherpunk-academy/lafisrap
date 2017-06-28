@@ -365,6 +365,8 @@ header .scroll-down .btn:hover {
     transform: translate(-50%, -50%);
   }
   header .brand-name {
+    margin-left: 40px;
+    margin-right: 40px;
     font-size: 80px;
     line-height: 83px;
   }
