@@ -58,7 +58,7 @@ about:
       Mit 17 Jahren habe ich professionell Videospiele programmiert, mit 28 sichere Online-Banking-Anwendungen.
       Später ein Web-Archiv und einen Computerspielplatz.
       In meinem <a href="#portfolio" class="page-scroll">**Portfolio**</a> finden Sie eine Auswahl meiner liebsten Projekte.
-      Derzeit aktuell sind bei mir **HTML**, **CSS**, **JavaScript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **d3**, **Bootstrap**, **Hugo**.
+      Derzeit aktuell sind bei mir **HTML**, **CSS**, **JavaScript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **Bootstrap**, **Hugo**.
 
 
       Offen und angstfrei zu kommunizieren habe ich in meiner Ausbildung zum **Klassenlehrer an Waldorfschulen** gelernt.
@@ -96,28 +96,28 @@ about:
 skillset:
   title: Skillset
   subtitle: Verschiedene Techniken, Technologien und Erfahrungen, die ich gesammelt habe.
-  subline: ...
+  subline: " "
   delay: 0.2
   processes:
     - process: "Programmieren"
       icon: "fa-pencil"
       bullets:
         - HTML, CSS, Bootstrap
-        - JavaScript, ES2016, TypeScript
+        - JavaScript, ES2016
         - React, Redux
         - jQuery, Backbone
         - node.js, Express, Go
         - MySQL, MongoDB
-        - Processing, D3, Paperjs
+        - Processing, D3
         - Cocos2d-X
         - Casper.js / Phantom.js
-        - Hugo, Wordpress
-        - "Früher: Drupal, PHP, C++, C, Assembler"
+        - Hugo Static Website Engine
+        - "Früher: Wordpress, Drupal, PHP, C++, C, Assembler"
     - process: "Ausbildung"
       icon: "fa-clipboard"
       bullets:
         - "Dipl. Inform. (FH) / European Business School"
-        - "FreeCodeCamp, Zertifikate 1+2"
+        - "FreeCodeCamp, Zertifikate 1+2 (3. auf dem Weg)"
         - "Kommunikation als Kunst (u.a. Gewaltfreie Kommunikation, Human Dynamics, Transaktionsanalyse / Gefühlsspiele, Gestalt-Therapie)"
     - process: "Projekte"
       icon: "fa-rocket"
@@ -624,7 +624,7 @@ portfolio:
   - image: img/portfolio/knowledgecommunities.jpg
     modalImage: img/backgrounds/gold.jpg
     captionTitle: Knowledge Communities
-    captionCategory: Wisensaustausch im Internet
+    captionCategory: Wissensaustausch im Internet
     link: https://www.amazon.de/Knowledge-Communities-virtuellen-Wissensmärkten-Unternehmen/dp/3827316758
     filters:
       - Buch

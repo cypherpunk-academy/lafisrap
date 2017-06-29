@@ -192,7 +192,7 @@
                 <div id="portfoliolist">
                     <!-- NOTE: You can add more items to the grid, or remove items you don't need! -->
                     {{ range $i, $e := .elements }}
-                    <div class="mix {{ range .filters }}{{ . | urlize }} {{ end }}" id="portfolio{{ $i }}" href="#" title="Client Name">
+                    <div class="mix {{ range .filters }}{{ . | urlize }} {{ end }}" id="portfolio{{ $i }}" href="#" title="{{ .captionCategory }}">
                         <div class="portfolio-wrapper">
                             <a href="#gridModal{{ $i }}" data-toggle="modal">
                                 <img src="{{ .image }}" alt="">

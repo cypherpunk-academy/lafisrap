@@ -58,7 +58,7 @@ about:
       With 17 I programmed video games in a professional environment, with 28 secure online banking applications.
       Later I developed a web archive and a computer playground.
       In my <a href="#portfolio" class="page-scroll">**portfolio**</a> you find a selection of my projects.
-      I'm currently fluent in **HTML**, **CSS**, **JavaScript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **d3**, **Bootstrap**, **Hugo**.
+      I'm currently fluent in **HTML**, **CSS**, **JavaScript**, **jQuery**, **React/Redux**, **node.js**, **Express**, **Bootstrap**, **Hugo**.
       But also eager to learn more.
 
 
@@ -96,28 +96,28 @@ about:
 skillset:
   title: Skillset
   subtitle: Some technologies, experiences and eductions on my way ...
-  subline: .
+  subline: " "
   delay: 0.2
   processes:
     - process: "Programming"
       icon: "fa-pencil"
       bullets:
         - HTML, CSS, Bootstrap
-        - JavaScript, ES2016, TypeScript
+        - JavaScript, ES2016
         - React, Redux
         - jQuery, Backbone
         - node.js, Express, Go
         - MySQL, MongoDB
-        - Processing, D3, Paperjs
+        - Processing, D3
         - Cocos2d-X
         - Casper.js / Phantom.js
-        - Hugo, Wordpress
-        - "Früher: Drupal, PHP, C++, C, Assembler"
+        - Hugo Static Website Engine
+        - "Früher: Wordpress, Drupal, PHP, C++, C, Assembler"
     - process: "Education / Degrees"
       icon: "fa-clipboard"
       bullets:
         - "Dipl. Inform. (FH) / European Business School"
-        - "FreeCodeCamp, Certificates 1+2"
+        - "FreeCodeCamp, Certificates 1+2 (3rd is on the way)"
         - "Communication As Art (u.a. NVC, Human Dynamics, Transaction Analysis / Games adults play, Gestalt Therapy)"
     - process: "Projects"
       icon: "fa-rocket"
@@ -126,7 +126,7 @@ skillset:
         - "Computer Playground (Used in schools 2015-17)"
         - "Novel: Die Geschichte der Cypherpunks (The Cypherpunks Tale, 2016)" 
         - "Internet Archive, ca. 10.000 historical documents"
-        - "Cofound of a publishing startup, ~150 Veröffentlichungen, total paid circulation > 500.000 (company is still alive)"
+        - "Cofound of a publishing startup, ~150 publications, total paid circulation > 500.000 (company is still alive)"
 
 ###########################################################################################################################
 portfolio:
@@ -513,7 +513,7 @@ portfolio:
   - image: img/portfolio/iris.png
     modalImage: img/backgrounds/gold.jpg
     captionTitle: Iris - Plats för Möte (Raum für Begegnung)
-    captionCategory: "Communication: Ausbildung und Übung"
+    captionCategory: "Communication: Education and Exercise
     link: http://irisjohansson.com
     filters:
       - Philosophy
@@ -571,7 +571,7 @@ portfolio:
   - image: img/portfolio/abgrund.jpg
     modalImage: img/backgrounds/gold.jpg
     captionTitle: Der Abgrund der Freiheit und die erste Liebe
-    captionCategory: Goethes Faust im Leben
+    captionCategory: Goethes Faust in life
     link: https://www.amazon.de/Abgrund-Freiheit-die-erste-Liebe/dp/3937078487
     filters:
       - Philosophy
@@ -586,7 +586,7 @@ portfolio:
   - image: img/portfolio/knowledgecommunities.jpg
     modalImage: img/backgrounds/gold.jpg
     captionTitle: Knowledge Communities
-    captionCategory: Wisensaustausch im Internet
+    captionCategory: Knowledge Exchange in the Internet
     link: https://www.amazon.de/Knowledge-Communities-virtuellen-Wissensmärkten-Unternehmen/dp/3827316758
     filters:
       - Book
