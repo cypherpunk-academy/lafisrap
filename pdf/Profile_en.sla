@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.6">
+    <DOCUMENT ANZPAGES="6" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="Abyssinica SIL Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="" DPPr="" DPIn="" DPInCMYK="" DPIn2="" DPIn3="" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.5">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Matt Blau" CMYK="#8fe300c2" Spot="0" Register="0"/>
+        <COLOR NAME="Matt Rot" CMYK="#0096ab45" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Abyssinica SIL Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="" ImageP="" PrintP="" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Subset Name="Abyssinica SIL Regular"/>
+            <Subset Name="IM FELL English SC Regular"/>
+            <Subset Name="Josefin Slab Bold"/>
+            <Subset Name="Josefin Slab Regular"/>
+            <Subset Name="Josefin Slab SemiBold"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="5" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="901.89" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1783.78" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2665.67" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3547.56" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4429.45" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <FRAMEOBJECT OwnPage="5" PTYPE="2" XPOS="139.5625" YPOS="4712.3575" WIDTH="49.5" HEIGHT="49.875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5538461538" LOCALSCY="0.5538461538" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/clipboard.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 49.5 0 49.5 0 49.5 0 49.5 0 49.5 49.875 49.5 49.875 49.5 49.875 49.5 49.875 0 49.875 0 49.875 0 49.875 0 49.875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 49.5 0 49.5 0 49.5 0 49.5 0 49.5 49.875 49.5 49.875 49.5 49.875 49.5 49.875 0 49.875 0 49.875 0 49.875 0 49.875 0 0 0 0 " NUMGROUP="1" GROUPS="1 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="1" fillRule="1" doOverprint="0" gXpos="1" gYpos="196" gWidth="50.5" gHeight="428.3125" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT OwnPage="5" PTYPE="2" XPOS="138.5625" YPOS="4893.3575" WIDTH="50" HEIGHT="51.3125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5538461538" LOCALSCY="0.5538461538" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/rocket.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 50 0 50 0 50 0 50 0 50 51.3125 50 51.3125 50 51.3125 50 51.3125 0 51.3125 0 51.3125 0 51.3125 0 51.3125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 50 0 50 0 50 0 50 0 50 51.3125 50 51.3125 50 51.3125 50 51.3125 0 51.3125 0 51.3125 0 51.3125 0 51.3125 0 0 0 0 " NUMGROUP="1" GROUPS="1 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="1" fillRule="1" doOverprint="0" gXpos="0" gYpos="377" gWidth="50.5" gHeight="428.3125" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </FRAMEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="101.25" YPOS="20.625" WIDTH="595.3125" HEIGHT="840.9375" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Red" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.620689655172414" LOCALSCY="0.620689655172414" LOCALX="0" LOCALY="-4.29629629629633" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/bg-header.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 595.312 0 595.312 0 595.312 0 595.312 0 595.312 840.938 595.312 840.938 595.312 840.938 595.312 840.938 0 840.938 0 840.938 0 840.938 0 840.938 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 595.312 0 595.312 0 595.312 0 595.312 0 595.312 840.938 595.312 840.938 595.312 840.938 595.312 840.938 0 840.938 0 840.938 0 840.938 0 840.938 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="198.28125" YPOS="227.8125" WIDTH="401.25" HEIGHT="160.520833333333" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 401.25 0 401.25 0 401.25 0 401.25 0 401.25 160.521 401.25 160.521 401.25 160.521 401.25 160.521 0 160.521 0 160.521 0 160.521 0 160.521 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 401.25 0 401.25 0 401.25 0 401.25 0 401.25 160.521 401.25 160.521 401.25 160.521 401.25 160.521 0 160.521 0 160.521 0 160.521 0 160.521 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="IM FELL English SC Regular" FONTSIZE="72" FCOLOR="Matt Blau" FSHADE="90" CH="Michael"/>
+            <breakline/>
+            <ITEXT FONT="IM FELL English SC Regular" FONTSIZE="72" FCOLOR="Matt Blau" FSHADE="90" CH="Schmidt"/>
+            <trail ALIGN="1" LINESP="69"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="235.78125" YPOS="423" WIDTH="326.25" HEIGHT="37.8333333333334" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 326.25 0 326.25 0 326.25 0 326.25 0 326.25 37.8333 326.25 37.8333 326.25 37.8333 326.25 37.8333 0 37.8333 0 37.8333 0 37.8333 0 37.8333 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 326.25 0 326.25 0 326.25 0 326.25 0 326.25 37.8333 326.25 37.8333 326.25 37.8333 326.25 37.8333 0 37.8333 0 37.8333 0 37.8333 0 37.8333 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Josefin Slab SemiBold" FONTSIZE="35" FCOLOR="Matt Blau" CH="Profile / C.V."/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="329.639576874383" YPOS="387.75" WIDTH="138.533346251235" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Matt Rot" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="3.13332041543202" gYpos="0" gWidth="141.666666666667" gHeight="103" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="329.639576887611" YPOS="391.75" WIDTH="138.533346224778" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Red" PCOLOR2="Matt Rot" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="3.13332041543202" gYpos="4" gWidth="141.666666666667" gHeight="103" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="329.639576887611" YPOS="485.75" WIDTH="138.533346224778" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Matt Rot" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="98" gWidth="141.666666666667" gHeight="103" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="5" XPOS="329.639576887611" YPOS="489.75" WIDTH="138.533346224778" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Red" PCOLOR2="Matt Rot" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="102" gWidth="141.666666666667" gHeight="103" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="235.78125" YPOS="503" WIDTH="326.25" HEIGHT="37.83333333" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 326.25 0 326.25 0 326.25 0 326.25 0 326.25 37.8333 326.25 37.8333 326.25 37.8333 326.25 37.8333 0 37.8333 0 37.8333 0 37.8333 0 37.8333 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 326.25 0 326.25 0 326.25 0 326.25 0 326.25 37.8333 326.25 37.8333 326.25 37.8333 326.25 37.8333 0 37.8333 0 37.8333 0 37.8333 0 37.8333 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Josefin Slab Regular" FCOLOR="Matt Rot" CH="Web: cv.michaelschmidt.berlin"/>
+            <trail ALIGN="1" LINESPMode="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="100.833333333333" YPOS="902.5" WIDTH="595" HEIGHT="841.666666666667" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.791208791208791" LOCALSCY="0.791208791208791" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/schillerpark.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 595 0 595 0 595 0 595 0 595 841.667 595 841.667 595 841.667 595 841.667 0 841.667 0 841.667 0 841.667 0 841.667 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 595 0 595 0 595 0 595 0 595 841.667 595 841.667 595 841.667 595 841.667 0 841.667 0 841.667 0 841.667 0 841.667 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.9375" YPOS="923" WIDTH="546.5" HEIGHT="781.8125" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="Black" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.4" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="32" POCOOR="1.03308 54.8572 1.03308 54.8572 50.1647 8.8064 0 9.78489 50.1647 8.8064 50.1647 8.8064 482.434 8.8064 482.434 8.8064 482.434 8.8064 482.434 8.8064 537.891 54.8572 546.5 0 537.891 54.8572 537.891 54.8572 539.268 729.953 539.268 729.953 539.268 729.953 539.268 729.953 484.936 777.899 541.335 775.942 484.936 777.899 484.936 777.899 53.0824 777.899 53.0824 777.899 53.0824 777.899 53.0824 777.899 1.03308 729.258 5.16541 781.813 1.03308 729.258 1.03308 729.258 1.03308 54.8572 1.03308 54.8572 " NUMCO="16" COCOOR="1.03308 8.8064 1.03308 8.8064 537.891 8.8064 537.891 8.8064 537.891 8.8064 537.891 8.8064 537.891 777.899 537.891 777.899 537.891 777.899 537.891 777.899 1.03308 777.899 1.03308 777.899 1.03308 777.899 1.03308 777.899 1.03308 8.8064 1.03308 8.8064 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="158.4375" YPOS="956.25" WIDTH="485.625" HEIGHT="719.0625" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 485.625 0 485.625 0 485.625 0 485.625 0 485.625 719.062 485.625 719.062 485.625 719.062 485.625 719.062 0 719.062 0 719.062 0 719.062 0 719.062 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 485.625 0 485.625 0 485.625 0 485.625 0 485.625 719.062 485.625 719.062 485.625 719.062 485.625 719.062 0 719.062 0 719.062 0 719.062 0 719.062 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="19" FCOLOR="White" CH="Contradictions"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH=" are an essence of life. For example time and quality, being serious and having fun, deadlines and details. My favourite polarity is "/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="19" FCOLOR="White" CH="programming"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH=" and "/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="19" FCOLOR="White" CH="communicating openly without fear"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH=". I do both with great enthusiasm."/>
+            <para ALIGN="3" LINESP="20"/>
+            <para ALIGN="3" LINESP="20"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH="With 17 I programmed video games in a professional environment, with 28 secure online banking applications. Later I developed a web archive and a computer playground. In my portfolio you find a selection of my projects. I’m currently fluent in "/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="19" FCOLOR="White" CH="HTML, CSS, JavaScript, jQuery, React/Redux, node.js, Express, Bootstrap, Hugo"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH=". But also eager to learn more."/>
+            <para ALIGN="3" LINESP="20"/>
+            <para ALIGN="3" LINESP="20"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH="I learnt to communicate in an open way, without fear, in my education as a Waldorf teacher. I decided to do this education after I "/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="19" FCOLOR="White" CH="cofounded and built up a publishing house startup"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH=" for five years and then as 40th book I published one about Waldorf pedagogy – and fell in love. I had the impuls to pass on to young folk, what I had experienced so far in my life."/>
+            <para ALIGN="3" LINESP="20"/>
+            <para ALIGN="3" LINESP="20"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH="What I can do to "/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="19" FCOLOR="White" CH="help others"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH=" to communicate in an open way, without fear, I learnt in a three years course called "/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="19" FCOLOR="White" CH="“Comunication As Art”"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH=" I would say that this is a mixture of Nonviolent Communication, Gestalt Therapy, Transaction Analysis and other methods. Together with my partner I also hosted a young autistic woman for the last three years. She was in need of a secure environment without fear."/>
+            <para ALIGN="3" LINESP="20"/>
+            <para ALIGN="3" LINESP="20"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH="After these experiences, as a new step in my life, "/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="19" FCOLOR="White" CH="I am looking for a team"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH=" where I can use my programming talents and help improving the communication atmosphere. Idealy in a "/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="19" FCOLOR="White" CH="JavaScript / Bootstrap / React-Environment"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="19" FCOLOR="White" CH=". But I also like to learn new things (I did already C, C++, PHP, Java and Go at some point of my life.)"/>
+            <trail ALIGN="3" LINESP="20"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="141.5625" YPOS="1824.375" WIDTH="455.625" HEIGHT="760.3125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="59.06" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 455.625 0 455.625 0 455.625 0 455.625 0 455.625 760.312 455.625 760.312 455.625 760.312 455.625 760.312 0 760.312 0 760.312 0 760.312 0 760.312 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 455.625 0 455.625 0 455.625 0 455.625 0 455.625 760.312 455.625 760.312 455.625 760.312 455.625 760.312 0 760.312 0 760.312 0 760.312 0 760.312 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="IM FELL English SC Regular" FONTSIZE="40" CH="SKILLSET"/>
+            <para ALIGN="1"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="15" CH="Some technologies, experiences and eductions on my way"/>
+            <para ALIGN="1"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="14" CH="PROGRAMMING"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- HTML, CSS, Bootstrap"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- JavaScript, ES2016"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- React, Redux"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- jQuery, Backbone"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- node.js, Express, Go"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- MySQL, MongoDB"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Processing, D3"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Cocos2d-X"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Casper.js / Phantom.js"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Hugo Static Website Engine"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Formerly: Wordpress, Drupal, PHP, C++, C, Assembler"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="14" CH="EDUCATION / DEGREES"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Dipl. Inform. (FH) / European Business School"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- FreeCodeCamp, Certificates 1+2 (3rd is on the way)"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Communication As Art (u.a. NVC, Human Dynamics, Transaction Analysis / Games adults play, Gestalt Therapy)"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="14" CH="PROJECTS"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Coorganizer of appr. 250 CryptoParties in Berlin (2013-2017)"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Computer Playground (Used in schools 2015-17)"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Novel: Die Geschichte der Cypherpunks (The Cypherpunks Tale, 2016)"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Internet Archive, ca. 10.000 historical documents"/>
+            <para LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="14" CH="- Cofounded a publishing startup, ~150 publications, total paid circulation &gt; 500.000 (company is still in business)"/>
+            <trail LINESP="17" INDENT="13.125" FIRST="-13.125"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="140.5625" YPOS="1905.6875" WIDTH="49.5625" HEIGHT="50.1875" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.553846153846154" LOCALSCY="0.553846153846154" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/pen.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 49.5625 0 49.5625 0 49.5625 0 49.5625 0 49.5625 50.1875 49.5625 50.1875 49.5625 50.1875 49.5625 50.1875 0 50.1875 0 50.1875 0 50.1875 0 50.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 49.5625 0 49.5625 0 49.5625 0 49.5625 0 49.5625 50.1875 49.5625 50.1875 49.5625 50.1875 49.5625 50.1875 0 50.1875 0 50.1875 0 50.1875 0 50.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="139.5625" YPOS="2144.6875" WIDTH="49.5" HEIGHT="49.875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.553846153846154" LOCALSCY="0.553846153846154" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/clipboard.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 49.5 0 49.5 0 49.5 0 49.5 0 49.5 49.875 49.5 49.875 49.5 49.875 49.5 49.875 0 49.875 0 49.875 0 49.875 0 49.875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 49.5 0 49.5 0 49.5 0 49.5 0 49.5 49.875 49.5 49.875 49.5 49.875 49.5 49.875 0 49.875 0 49.875 0 49.875 0 49.875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="138.5625" YPOS="2273.6875" WIDTH="50" HEIGHT="51.3125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.553846153846154" LOCALSCY="0.553846153846154" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/rocket.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 50 0 50 0 50 0 50 0 50 51.3125 50 51.3125 50 51.3125 50 51.3125 0 51.3125 0 51.3125 0 51.3125 0 51.3125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 50 0 50 0 50 0 50 0 50 51.3125 50 51.3125 50 51.3125 50 51.3125 0 51.3125 0 51.3125 0 51.3125 0 51.3125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="141.5625" YPOS="2707.5" WIDTH="511.875" HEIGHT="760.3125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 511.875 0 511.875 0 511.875 0 511.875 0 511.875 760.312 511.875 760.312 511.875 760.312 511.875 760.312 0 760.312 0 760.312 0 760.312 0 760.312 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 511.875 0 511.875 0 511.875 0 511.875 0 511.875 760.312 511.875 760.312 511.875 760.312 511.875 760.312 0 760.312 0 760.312 0 760.312 0 760.312 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="21" BACKITEM="-1">
+            <ITEXT FONT="IM FELL English SC Regular" FONTSIZE="40" CH="PORTFOLIO"/>
+            <para ALIGN="1"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="15" CH="Here you find a selection of my projects and initiatives."/>
+            <para ALIGN="1"/>
+            <ITEXT FONTSIZE="9" CH="(group by technologies at cv.michaelschmidt.berlin/en#portfolio)"/>
+            <para ALIGN="1" LINESP="14"/>
+            <para ALIGN="1" LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="FreeCodeCamp"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="12" CH="HTML, CSS, JavaScript, Bootstrap, jQuery, React Redux, D3, nodejs Express, MongoDB"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="12" CH="2017"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="12" CH="Profile at FreeCodeCamp:"/>
+            <ITEXT FONT="Josefin Slab SemiBold" FONTSIZE="12" CH=" https://www.freecodecamp.com/lafisrap"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="12" CH="Fontend-Certificate: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" FONTSIZE="12" CH="https://www.freecodecamp.com/lafisrap/front-end-certification"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" FONTSIZE="12" CH="Data Viz-Certificate: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" FONTSIZE="12" CH="https://www.freecodecamp.com/lafisrap/data-visualization-certification"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="Polls out of Berlin"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="HTML CSS, Bootstrap, JavaScript, jQuery, Nodejs, Express, MongoDB"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="2017"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Polls out of Berlin: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://infinite-cliffs-16818.herokuapp.com"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="GitHub: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://github.com/lafisrap/fcc_voting-app"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="Rogue Reaction"/>
+            <ITEXT CH=" (Game)"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="HTML CSS, JavaScript, Bootstrap, React, Redux"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="2017"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Rogue Reaction: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://codepen.io/lafisrap/full/LyNvow"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="Creative Commons Image Search"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="HTML CSS, Bootstrap, JavaScript, React, Redux, Nodejs, Express"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="2017"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Creative Commons Image Search: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://codepen.io/lafisrap/full/pPYpOj"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="  "/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="GitHub: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://github.com/lafisrap/fcc_ImageSearch"/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="Computer-Playground"/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Go, Websockets, HTML CSS, Bootstrap, Backbone, JavaScript, jQuery, Paperjs, mySQL, Processing, Android, Apache Cordova, Casperjs"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Regular" CH="2015-2017"/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Regular" CH="GitHub: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://github.com/lafisrap/Computer-Spielplatz"/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Regular" CH="(currently not online)"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="The Simon Game"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="HTML CSS, JavaScript, Bootstrap, jQuery"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="2017"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="The Simon Game: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://codepen.io/lafisrap/full/XpypRz"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="21 Words - Tetris and Scrabble united"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Cocos2d-X, JavaScript, Apache Cordova, Android"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="2015"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Video: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="http://c2064.in-berlin.de/c2064/21worte.mp4"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Android: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="http://c2064.in-berlin.de/c2064/21worte.apk"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Web: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="http://c2064.in-berlin.de/c2064/21worte"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Github: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://github.com/lafisrap/21words"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="Fru Konstnär"/>
+            <ITEXT FONT="Josefin Slab Bold" CH=" (Swedish life theater)"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Bootstrap, JavaScript, jQuery, Hugo"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="2017"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Fru Konstnär: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://maarjaurb.github.io/frukonstnar (Later: http://www.frukonstnär.se)"/>
+            <ITEXT CH=" "/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Github: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://github.com/maarjaurb/frukonstnar"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="Rudolf Steiner Internet Archive"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="HTML, JavaScript, PHP, mySQL"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="2008-2017"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Steiner Database: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="http://www.steinerdatenbank.de"/>
+            <para LINESP="14"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Bold" FONTSIZE="17" CH="CryptoParty Berlin"/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Regular" CH="Cryptography, PGP/GPG, TOR, OTR, OMEMO, Veracrypt, Tails, Conversations, Ricochet, Tor Browser, Tor Messenger"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Regular" CH="2013-2017"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Josefin Slab Regular" CH="CryptoParty Berlin: "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="https://cryptoparty.in/berlin"/>
+            <trail LINESP="14"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="142" YPOS="2794.1875" WIDTH="152" HEIGHT="79.3125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/fcc.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 152 0 152 0 152 0 152 0 152 79.3125 152 79.3125 152 79.3125 152 79.3125 0 79.3125 0 79.3125 0 79.3125 0 79.3125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 152 0 152 0 152 0 152 0 152 79.3125 152 79.3125 152 79.3125 152 79.3125 0 79.3125 0 79.3125 0 79.3125 0 79.3125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="140" YPOS="2947.1875" WIDTH="150" HEIGHT="81.8125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/polls.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 81.8125 150 81.8125 150 81.8125 150 81.8125 0 81.8125 0 81.8125 0 81.8125 0 81.8125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 81.8125 150 81.8125 150 81.8125 150 81.8125 0 81.8125 0 81.8125 0 81.8125 0 81.8125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="140" YPOS="3087.1875" WIDTH="150" HEIGHT="80.8125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/rogue.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 80.8125 150 80.8125 150 80.8125 150 80.8125 0 80.8125 0 80.8125 0 80.8125 0 80.8125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 80.8125 150 80.8125 150 80.8125 150 80.8125 0 80.8125 0 80.8125 0 80.8125 0 80.8125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="140" YPOS="3213.1875" WIDTH="150" HEIGHT="80.8125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/search.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 80.8125 150 80.8125 150 80.8125 150 80.8125 0 80.8125 0 80.8125 0 80.8125 0 80.8125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 80.8125 150 80.8125 150 80.8125 150 80.8125 0 80.8125 0 80.8125 0 80.8125 0 80.8125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="140" YPOS="3356.1875" WIDTH="150" HEIGHT="73.8125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/spielplatz.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 73.8125 150 73.8125 150 73.8125 150 73.8125 0 73.8125 0 73.8125 0 73.8125 0 73.8125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 73.8125 150 73.8125 150 73.8125 150 73.8125 0 73.8125 0 73.8125 0 73.8125 0 73.8125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="139.625" YPOS="3587.8125" WIDTH="513.75" HEIGHT="762.1875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513.75 0 513.75 0 513.75 0 513.75 0 513.75 762.188 513.75 762.188 513.75 762.188 513.75 762.188 0 762.188 0 762.188 0 762.188 0 762.188 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513.75 0 513.75 0 513.75 0 513.75 0 513.75 762.188 513.75 762.188 513.75 762.188 513.75 762.188 0 762.188 0 762.188 0 762.188 0 762.188 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="15">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="141" YPOS="3588.1875" WIDTH="150" HEIGHT="77.5625" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/simongame.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 77.5625 150 77.5625 150 77.5625 150 77.5625 0 77.5625 0 77.5625 0 77.5625 0 77.5625 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 77.5625 150 77.5625 150 77.5625 150 77.5625 0 77.5625 0 77.5625 0 77.5625 0 77.5625 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="141" YPOS="4152.1875" WIDTH="150" HEIGHT="77.5625" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/cryptoparty.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 77.5625 150 77.5625 150 77.5625 150 77.5625 0 77.5625 0 77.5625 0 77.5625 0 77.5625 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 77.5625 150 77.5625 150 77.5625 150 77.5625 0 77.5625 0 77.5625 0 77.5625 0 77.5625 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="141" YPOS="4022.1875" WIDTH="150" HEIGHT="77.5625" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/steinerdb.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 77.5625 150 77.5625 150 77.5625 150 77.5625 0 77.5625 0 77.5625 0 77.5625 0 77.5625 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 77.5625 150 77.5625 150 77.5625 150 77.5625 0 77.5625 0 77.5625 0 77.5625 0 77.5625 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="141" YPOS="3883.1875" WIDTH="150" HEIGHT="74.5625" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/frukonstnar.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 74.5625 150 74.5625 150 74.5625 150 74.5625 0 74.5625 0 74.5625 0 74.5625 0 74.5625 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 74.5625 150 74.5625 150 74.5625 150 74.5625 0 74.5625 0 74.5625 0 74.5625 0 74.5625 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="141" YPOS="3714.1875" WIDTH="150" HEIGHT="73.3724999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.4" LOCALSCY="0.4" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../Computer-Coaching/cv/static/img/portfolio/21worte.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 73.3725 150 73.3725 150 73.3725 150 73.3725 0 73.3725 0 73.3725 0 73.3725 0 73.3725 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150 0 150 0 150 0 150 0 150 73.3725 150 73.3725 150 73.3725 150 73.3725 0 73.3725 0 73.3725 0 73.3725 0 73.3725 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="141.5625" YPOS="4470.045" WIDTH="455.625" HEIGHT="760.3125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="58.1225" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 455.625 0 455.625 0 455.625 0 455.625 0 455.625 760.312 455.625 760.312 455.625 760.312 455.625 760.312 0 760.312 0 760.312 0 760.312 0 760.312 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 455.625 0 455.625 0 455.625 0 455.625 0 455.625 760.312 455.625 760.312 455.625 760.312 455.625 760.312 0 760.312 0 760.312 0 760.312 0 760.312 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="IM FELL English SC Regular" FONTSIZE="40" CH="CURRICULUM VITAE"/>
+            <para ALIGN="1" LINESP="31"/>
+            <para/>
+            <ITEXT FONT="IM FELL English SC Regular" FONTSIZE="24" CH="1967-1995"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- Born May 28th 1967 in Valdivia/Chile"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="1970"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Moved to Germany"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="1984"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Goldenen Diskette (Ministry Of Technology, BILD, Chip)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="1985-1987"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Video games programming"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="1987"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Abitur"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="1988"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Military Service"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="1989-1991"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Software engineer (PCM, Kontron)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="1991-1995"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" European Business School, information management, degree: "/>
+            <ITEXT FONT="Josefin Slab Bold" CH="Diplom-Informatiker (FH)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="IM FELL English SC Regular" FONTSIZE="24" CH="1996 - 2008"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="1996-1999"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Project manager and consultant on Internet projects (Allianz Leben, Raysono)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2000"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Book „Knowledge Communities“ (Addison Wessley)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2000-2002"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Knowledge Management-Consulting (LHI, 2002 LHI won „Wissensmanager des Jahres, small companies“"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2003-2007"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" "/>
+            <ITEXT FONT="Josefin Slab Bold" CH="Cofunding a book and CD startup"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=": „Archiati-Verlag“, today „Rudolf Steiner Ausgaben“"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2004"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Book „Der Abgrund der Freiheit und die erste Liebe“ (Goethes Faust)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="IM FELL English SC Regular" FONTSIZE="24" CH="2008 -"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2008-2010"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Education „Klassenlehrer an Waldorfschulen“ (class teacher Waldorf schools)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2009-2012"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" 3 years education „Intuitive Pädagogik“"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2011-today"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Computer education at different Waldorf schools (own Computer Playground)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2012-2015"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" 3 years education "/>
+            <ITEXT FONT="Josefin Slab Bold" CH="„Kommunikation als Kunst“"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" (Communication As Art)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2015"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Smartphone-Game „21 Words”"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2016"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" Book „2064 - Die Geschichte der Cypherpunks“ (2064 - The Cypherpunks Tale)"/>
+            <para INDENT="13.125" FIRST="-13.125"/>
+            <ITEXT FONT="Josefin Slab Regular" CH="- "/>
+            <ITEXT FONT="Josefin Slab SemiBold" CH="2017-"/>
+            <ITEXT FONT="Josefin Slab Regular" CH=" FreeCodeCamp, Online-Programming-University (2 Certificates, 3rd under way)"/>
+            <trail INDENT="13.125" FIRST="-13.125"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="138.5625" YPOS="4548.3575" WIDTH="49.5625" HEIGHT="50.1875" RADRECT="0" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5538461538" LOCALSCY="0.5538461538" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/pen.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 49.5625 0 49.5625 0 49.5625 0 49.5625 0 49.5625 50.1875 49.5625 50.1875 49.5625 50.1875 49.5625 50.1875 0 50.1875 0 50.1875 0 50.1875 0 50.1875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 49.5625 0 49.5625 0 49.5625 0 49.5625 0 49.5625 50.1875 49.5625 50.1875 49.5625 50.1875 49.5625 50.1875 0 50.1875 0 50.1875 0 50.1875 0 50.1875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="139.5625" YPOS="4744.3575" WIDTH="49.5" HEIGHT="49.875" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5538461538" LOCALSCY="0.5538461538" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/clipboard.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 49.5 0 49.5 0 49.5 0 49.5 0 49.5 49.875 49.5 49.875 49.5 49.875 49.5 49.875 0 49.875 0 49.875 0 49.875 0 49.875 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 49.5 0 49.5 0 49.5 0 49.5 0 49.5 49.875 49.5 49.875 49.5 49.875 49.5 49.875 0 49.875 0 49.875 0 49.875 0 49.875 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="138.5625" YPOS="4920.3575" WIDTH="50" HEIGHT="51.3125" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.5538461538" LOCALSCY="0.5538461538" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Schreibtisch/rocket.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 50 0 50 0 50 0 50 0 50 51.3125 50 51.3125 50 51.3125 50 51.3125 0 51.3125 0 51.3125 0 51.3125 0 51.3125 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 50 0 50 0 50 0 50 0 50 51.3125 50 51.3125 50 51.3125 50 51.3125 0 51.3125 0 51.3125 0 51.3125 0 51.3125 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>

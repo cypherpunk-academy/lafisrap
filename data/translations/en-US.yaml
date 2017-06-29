@@ -112,7 +112,7 @@ skillset:
         - Cocos2d-X
         - Casper.js / Phantom.js
         - Hugo Static Website Engine
-        - "Früher: Wordpress, Drupal, PHP, C++, C, Assembler"
+        - "Formerly: Wordpress, Drupal, PHP, C++, C, Assembler"
     - process: "Education / Degrees"
       icon: "fa-clipboard"
       bullets:
@@ -126,7 +126,7 @@ skillset:
         - "Computer Playground (Used in schools 2015-17)"
         - "Novel: Die Geschichte der Cypherpunks (The Cypherpunks Tale, 2016)" 
         - "Internet Archive, ca. 10.000 historical documents"
-        - "Cofound of a publishing startup, ~150 publications, total paid circulation > 500.000 (company is still in business)"
+        - "Cofounded a publishing startup, ~150 publications, total paid circulation > 500.000 (company is still in business)"
 
 ###########################################################################################################################
 portfolio:
@@ -182,7 +182,7 @@ portfolio:
       <p>2017</p>
 
 
-      **[Profile at FreeCodeCpomp](https://www.freecodecamp.com/lafisrap)**
+      **[Profile at FreeCodeCamp](https://www.freecodecamp.com/lafisrap)**
 
 
       **Certificates:**  
@@ -597,9 +597,6 @@ portfolio:
 
       **[Amazon](https://www.amazon.de/Knowledge-Communities-virtuellen-Wissensmärkten-Unternehmen/dp/3827316758)**
 
-# Addieren ...
-  # Malernen
-
 
 
 
@@ -655,8 +652,8 @@ cv:
         - "**2008**-**2010** Education „Klassenlehrer an Waldorfschulen“ (class teacher Waldorf schools)"
         - "**2009**-**2012** 3 years education „Intuitive Pädagogik“"
         - "**2011**-today Computer education at different Waldorf schools (own Computer Playground)"
-        - "**2012**-**2015** 3 years education **„Kommunkation als Kunst“** (Communication As Art)"
-        - "**2015** Smartphone-Game „21 Words"
+        - "**2012**-**2015** 3 years education **„Kommunikation als Kunst“** (Communication As Art)"
+        - "**2015** Smartphone-Game „21 Words”
         - "**2016** Book „2064 - Die Geschichte der Cypherpunks“ (2064 - The Cypherpunks Tale)"
         - "**2017**- FreeCodeCamp, Online-Programming-University (2 Certificates, 3rd under way)"
   subline: ""
