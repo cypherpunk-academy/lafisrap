@@ -513,7 +513,7 @@ portfolio:
   - image: img/portfolio/iris.png
     modalImage: img/backgrounds/gold.jpg
     captionTitle: Iris - Plats för Möte (Raum für Begegnung)
-    captionCategory: "Communication: Education and Exercise
+    captionCategory: "Communication: Education and Exercise"
     link: http://irisjohansson.com
     filters:
       - Philosophy
@@ -653,7 +653,7 @@ cv:
         - "**2009**-**2012** 3 years education „Intuitive Pädagogik“"
         - "**2011**-today Computer education at different Waldorf schools (own Computer Playground)"
         - "**2012**-**2015** 3 years education **„Kommunikation als Kunst“** (Communication As Art)"
-        - "**2015** Smartphone-Game „21 Words”
+        - "**2015** Smartphone-Game „21 Words”"
         - "**2016** Book „2064 - Die Geschichte der Cypherpunks“ (2064 - The Cypherpunks Tale)"
         - "**2017**- FreeCodeCamp, Online-Programming-University (2 Certificates, 3rd under way)"
   subline: ""
