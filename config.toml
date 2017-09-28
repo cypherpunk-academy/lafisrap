@@ -3,7 +3,7 @@
 # Config File for INVISIBLE UNIVERSITY flavour of VITALITY bootstrap theme
 #
 #--------------------------------------------------------------
-Baseurl = "https://cv.michaelschmidt.berlin/de"
+Baseurl = "http://michaelschmidt.berlin/de"
 LanguageCode = "de-DE"
 Title = "Lebenslauf und Profil - Michael Schmidt"
 Theme = "hugo-university-theme"
