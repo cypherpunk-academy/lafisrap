@@ -125,6 +125,4 @@ $(document).ready(function() {
 
     filterList.init();
 
-    $(".grid-panel a").click(e => e.stopPropagation());
-
 })(jQuery); // End of use strict

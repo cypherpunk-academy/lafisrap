@@ -4,7 +4,7 @@
 	background-color: @themeDark;
 	.item {
 		background-color: @themeDark;
-		background: no-repeat center center scroll;
+		background: no-repeat center center scroll; 
 		.background-cover;
 		padding: 50px 55px;
 		text-align: center;
@@ -15,7 +15,7 @@
 
 		.project-details {
 			padding: 0;
-
+		
 			.project-name {
 				display: block;
 				font-size: 40px;
@@ -23,7 +23,7 @@
 				margin-bottom: 25px;
 				.heading-font;
 			}
-
+		
 			.project-description, .project-description p {
 				display: block;
 				font-size: 16px;
@@ -96,7 +96,7 @@
 		.item {
 			padding: 155px 55px 155px;
 			text-align: left;
-			min-height: 100%;
+			min-height: 100%;		
 			.project-details {
 				padding: 25% 0 0;
 				img.client-logo {
@@ -124,7 +124,7 @@
 
 			hr.colored {
 				margin: 10px auto 10px 0;
-			}
+			}			
 		}
 	}
 }
@@ -136,20 +136,10 @@
 }
 
 .portfolio-modal {
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-color: black;
-	-moz-filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
-	-o-filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
-	-webkit-filter: grayscale(100%);
-	filter: gray;
-	filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
-
 	.modal-backdrop {
 		display: none;
 	}
-
+	.background-cover;
 	.modal-content {
 		color: white;
 		background: transparent;
@@ -166,7 +156,7 @@
     	font-size: 46px;
 		}
 		hr {
-			margin: 7px auto 50px auto;
+			margin: 7px auto 50px auto;	
 		}
 		.item-details {
 			margin: 30px 0;
@@ -204,18 +194,18 @@
               -webkit-transform: rotate(90deg);
               /* Safari and Chrome */
               z-index:1052;
-          }
-      }
+          }            
+      }        
     }
 
     h2 {
     	font-family: @fontTitle;
     }
     h2.light {
-    	color: @themeLight;
+    	color: @themeLight;    	
     }
     h2.dark {
-    	color: @themeDark;
+    	color: @themeDark;    	
     }
     .topic {
     	font-size: 30px;
@@ -249,7 +239,7 @@
 		img {
 			margin: 0;
 		}
-
+		
 		top: 0px;
 		bottom: 0px;
 	}
@@ -283,7 +273,7 @@
 			right: 0px;
 			padding-right: -10px;
 		}
-	}
+	}	
 }
 
 /* Only for Device Mockup */
@@ -312,7 +302,7 @@
 		padding: 20px;
 
   	.topic {
-  		position: absolute;
+  		position: absolute;	
 			width: 260px;
 			text-align: left;
 			font-size: 20px;
@@ -341,7 +331,7 @@
 				margin-right: 0px;
 				margin-top: 5px;
 				margin-bottom: 5px;
-				border-color: @themePrimary;
+				border-color: @themePrimary; 
 				text-align: left;
 			}
 			.description {
@@ -421,13 +411,13 @@
 
 .device-mockup.jasper {
 	padding-bottom: 65.14%;
-
+	
 	.device {
-
+		
 		background-image: url("../img/stones/jasper.png");
-
+		
 		.screen {
-
+    
     	top: 9.177551%; bottom: 10.477551%; left: 7.345988%; right: 6.945988%;
 		}
 	}
@@ -441,20 +431,20 @@
 
 			.description {
 				background-color: rgba( 177, 35, 3, 1);
-			}
+			}			
 		}
 	}
 }
 
 .device-mockup.saphire {
 	padding-bottom: 65.14%;
-
+	
 	.device {
-
+		
 		background-image: url("../img/stones/saphire.png");
-
+		
 		.screen {
-
+    
     	top: 9.177551%; bottom: 10.477551%; left: 7.345988%; right: 6.945988%;
 		}
 	}
@@ -468,7 +458,7 @@
 
 			.description {
 				background-color: rgba( 47, 54, 73, 1);
-			}
+			}			
 		}
 	}
 }
@@ -484,4 +474,9 @@
 			top: 11.0438729%; bottom: 14.6747352%; left: 13.364486%; right: 13.364486%;
 		}
 	}
+}
+
+/* Not for now! */
+.topics {
+	display: none;
 }
