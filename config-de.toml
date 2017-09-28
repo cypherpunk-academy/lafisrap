@@ -3,7 +3,7 @@
 # Config File for INVISIBLE UNIVERSITY flavour of VITALITY bootstrap theme
 #
 #--------------------------------------------------------------
-Baseurl = "https://lafisrap.github.io/job-profile/de"
+Baseurl = "https://lafisrap.github.io/job-profile/"
 LanguageCode = "de-DE"
 Title = "Lebenslauf und Profil - Michael Schmidt"
 Theme = "hugo-university-theme"
