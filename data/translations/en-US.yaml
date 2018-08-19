@@ -240,29 +240,6 @@ portfolio:
 
       **Special:** CSS-Kreisausschnitt für Spieler
 
-  - image: img/portfolio/2064.jpg
-    modalImage: img/backgrounds/gold.jpg
-    captionTitle: 2064 - Die Geschichte der Cypherpunks
-    captionCategory: Leseprobe (German)
-    link: text/2064.pdf
-    filters:
-      - Philosophy
-      - Book
-      - Cryptography
-      - AsciiDoctor
-    content: >
-      <p>2016</p>
-
-
-      **[Leseprobe](text/2064.pdf)**
-
-
-      **Story:**  
-
-      In the year 2064 a group of students are learning how the internet was freed in our time --
-      the teacher is a female hacker, take played a central role in the freedom fight.
-
-
   - image: img/portfolio/search.png
     modalImage: img/backgrounds/gold.jpg
     captionTitle: Creative Commons Image Search
@@ -654,7 +631,6 @@ cv:
         - "**2011**-today Computer education at different Waldorf schools (own Computer Playground)"
         - "**2012**-**2015** 3 years education **„Kommunikation als Kunst“** (Communication As Art)"
         - "**2015** Smartphone-Game „21 Words”"
-        - "**2016** Book „2064 - Die Geschichte der Cypherpunks“ (2064 - The Cypherpunks Tale)"
         - "**2017**- FreeCodeCamp, Online-Programming-University (2 Certificates, 3rd under way)"
   subline: ""
 
